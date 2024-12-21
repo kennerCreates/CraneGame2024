@@ -1926,3 +1926,823 @@ Script Stack (0 frames) :
 [2024.12.21-21.03.52:622][855]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.21-21.03.52:622][855]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.21-21.03.52:622][855]AssetCheck: /Game/A_Gameplay/Input/IMC_DriveCrane Validating asset
+[2024.12.21-21.04.24:422][158]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/A_Gameplay/Input/IMC_DriveCrane.IMC_DriveCrane
+[2024.12.21-21.04.28:819][660]LogSlate: Window 'IMC_DriveCrane' being destroyed
+[2024.12.21-21.04.28:823][660]LogSlate: Window 'IMC_DriveCrane' being destroyed
+[2024.12.21-21.04.31:104][923]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.21-21.04.31:109][923]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.21-21.04.31:115][924]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.21-21.04.34:986][389]LogContentBrowser: Attempting asset rename: NewFolder -> Actions
+[2024.12.21-21.04.34:986][389]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.21-21.04.38:895][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.12.21-21.04.48:929][ 33]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.12.21-21.04.48:933][ 33]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.12.21-21.04.48:949][ 35]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.12.21-21.04.55:471][818]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Drive
+[2024.12.21-21.04.55:472][818]LogContentBrowser: End creating deferred item NewInputAction
+[2024.12.21-21.04.56:148][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.12.21-21.04.56:153][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.04.56:173][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Gameplay/Input/Actions/IA_Drive] ([1] browsable assets)...
+[2024.12.21-21.04.56:173][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Gameplay/Input/Actions/IA_Drive]
+[2024.12.21-21.04.56:173][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Gameplay/Input/Actions/IA_Drive" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Gameplay/Input/Actions/IA_Drive.uasset" SILENT=true
+[2024.12.21-21.04.56:174][894]LogSavePackage: Moving output files for package: /Game/A_Gameplay/Input/Actions/IA_Drive
+[2024.12.21-21.04.56:174][894]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/IA_DriveEFDB17794657125C08FAAD8BBE406E4C.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Gameplay/Input/Actions/IA_Drive.uasset'
+[2024.12.21-21.04.56:180][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.674 ms (total: 860.118 ms)
+[2024.12.21-21.04.56:208][894]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.04.56:208][894]LogContentValidation: Enabled validators:
+[2024.12.21-21.04.56:208][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.04.56:208][894]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.04.56:208][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.04.56:208][894]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.04.56:208][894]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.04.56:208][894]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.04.56:208][894]AssetCheck: /Game/A_Gameplay/Input/Actions/IA_Drive Validating asset
+[2024.12.21-21.04.57:969][103]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/A_Gameplay/Input/Actions/IA_Drive.IA_Drive
+[2024.12.21-21.05.02:333][594]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1663.942017
+[2024.12.21-21.05.02:409][603]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.21-21.05.02:409][603]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1664.008545, Update Interval: 304.989777
+[2024.12.21-21.05.03:255][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.05.03:277][702]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Gameplay/Input/Actions/IA_Drive] ([1] browsable assets)...
+[2024.12.21-21.05.03:277][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Gameplay/Input/Actions/IA_Drive]
+[2024.12.21-21.05.03:277][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Gameplay/Input/Actions/IA_Drive" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Gameplay/Input/Actions/IA_Drive.uasset" SILENT=true
+[2024.12.21-21.05.03:278][702]LogSavePackage: Moving output files for package: /Game/A_Gameplay/Input/Actions/IA_Drive
+[2024.12.21-21.05.03:279][702]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/IA_Drive647A33904C129C91B925FEB122C0C8C3.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Gameplay/Input/Actions/IA_Drive.uasset'
+[2024.12.21-21.05.03:286][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.573 ms (total: 890.691 ms)
+[2024.12.21-21.05.03:311][702]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.05.03:311][702]LogContentValidation: Enabled validators:
+[2024.12.21-21.05.03:311][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.05.03:311][702]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.05.03:311][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.05.03:311][702]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.05.03:311][702]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.05.03:311][702]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.05.03:311][702]AssetCheck: /Game/A_Gameplay/Input/Actions/IA_Drive Validating asset
+[2024.12.21-21.05.07:393][190]LogSlate: Window 'IA_Drive' being destroyed
+[2024.12.21-21.05.07:399][190]LogSlate: Window 'IA_Drive' being destroyed
+[2024.12.21-21.05.10:401][543]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/A_Gameplay/Input/IMC_DriveCrane.IMC_DriveCrane
+[2024.12.21-21.05.31:204][986]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.12.21-21.06.49:607][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.06.49:627][801]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Gameplay/Input/IMC_DriveCrane] ([1] browsable assets)...
+[2024.12.21-21.06.49:627][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Gameplay/Input/IMC_DriveCrane]
+[2024.12.21-21.06.49:627][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Gameplay/Input/IMC_DriveCrane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Gameplay/Input/IMC_DriveCrane.uasset" SILENT=true
+[2024.12.21-21.06.49:628][801]LogSavePackage: Moving output files for package: /Game/A_Gameplay/Input/IMC_DriveCrane
+[2024.12.21-21.06.49:630][801]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/IMC_DriveCrane231AF86A4A4711738F91A7B2F8A704AF.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Gameplay/Input/IMC_DriveCrane.uasset'
+[2024.12.21-21.06.49:637][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.124 ms (total: 919.815 ms)
+[2024.12.21-21.06.49:660][801]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.06.49:660][801]LogContentValidation: Enabled validators:
+[2024.12.21-21.06.49:660][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.06.49:660][801]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.06.49:660][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.06.49:660][801]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.06.49:660][801]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.06.49:660][801]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.06.49:660][801]AssetCheck: /Game/A_Gameplay/Input/IMC_DriveCrane Validating asset
+[2024.12.21-21.06.53:607][114]LogSlate: Window 'IMC_Default' being destroyed
+[2024.12.21-21.06.53:612][114]LogSlate: Window 'IMC_Default' being destroyed
+[2024.12.21-21.06.56:716][472]LogSlate: Window 'IMC_DriveCrane' being destroyed
+[2024.12.21-21.07.00:610][931]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2024.12.21-21.07.01:446][998]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.12.21-21.07.01:446][998]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2024.12.21-21.07.02:074][  2]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2024.12.21-21.07.12:136][793]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.12.21-21.07.45:214][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.12.21-21.08.01:035][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.21-21.08.01:918][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.08.01:950][166]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_Character/BP_Crane] ([2] browsable assets)...
+[2024.12.21-21.08.02:006][166]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/BP_Crane.BP_Crane]
+[2024.12.21-21.08.02:006][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/BP_Crane]
+[2024.12.21-21.08.02:006][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/BP_Crane.uasset" SILENT=true
+[2024.12.21-21.08.02:009][166]LogSavePackage: Moving output files for package: /Game/A_Character/BP_Crane
+[2024.12.21-21.08.02:009][166]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneDB76A882444DE6E4EAD8D091CE026552.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/BP_Crane.uasset'
+[2024.12.21-21.08.02:018][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.700 ms (total: 1.01 sec)
+[2024.12.21-21.08.02:039][166]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.08.02:039][166]LogContentValidation: Enabled validators:
+[2024.12.21-21.08.02:039][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.08.02:039][166]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.08.02:039][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.08.02:039][166]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.08.02:039][166]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.08.02:039][166]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.08.02:039][166]AssetCheck: /Game/A_Character/BP_Crane Validating asset
+[2024.12.21-21.08.04:975][378]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 99378
+[2024.12.21-21.08.04:975][378]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.12.21-21.08.04:978][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-21.08.29:186][ 36]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.21-21.08.29:201][ 36]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.21-21.08.29:224][ 37]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.21-21.08.33:088][326]LogContentBrowser: Attempting asset rename: NewFolder -> Crane
+[2024.12.21-21.08.33:088][326]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.21-21.08.35:654][485]LogMetaData: Removing '/Game/A_Character/Crane/BP_Crane.BP_Crane:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/A_Character/BP_Crane.PackageMetaData'
+[2024.12.21-21.08.35:654][485]LogMetaData: Removing '/Game/A_Character/Crane/BP_Crane.SKEL_BP_Crane_C' ref from Metadata '/Game/A_Character/BP_Crane.PackageMetaData'
+[2024.12.21-21.08.35:654][485]LogMetaData: Removing '/Game/A_Character/Crane/BP_Crane.BP_Crane_C' ref from Metadata '/Game/A_Character/BP_Crane.PackageMetaData'
+[2024.12.21-21.08.35:654][485]LogMetaData: Removing '/Game/A_Character/Crane/BP_Crane.BP_Crane:EventGraph.K2Node_Event_0' ref from Metadata '/Game/A_Character/BP_Crane.PackageMetaData'
+[2024.12.21-21.08.35:654][485]LogMetaData: Removing '/Game/A_Character/Crane/BP_Crane.BP_Crane:EventGraph.K2Node_Event_1' ref from Metadata '/Game/A_Character/BP_Crane.PackageMetaData'
+[2024.12.21-21.08.35:654][485]LogMetaData: Removing '/Game/A_Character/Crane/BP_Crane.BP_Crane:EventGraph.K2Node_Event_2' ref from Metadata '/Game/A_Character/BP_Crane.PackageMetaData'
+[2024.12.21-21.08.35:654][485]LogMetaData: Removing '/Game/A_Character/Crane/BP_Crane.SKEL_BP_Crane_C:UserConstructionScript' ref from Metadata '/Game/A_Character/BP_Crane.PackageMetaData'
+[2024.12.21-21.08.35:654][485]LogMetaData: Removing '/Game/A_Character/Crane/BP_Crane.SKEL_BP_Crane_C:ReceiveBeginPlay' ref from Metadata '/Game/A_Character/BP_Crane.PackageMetaData'
+[2024.12.21-21.08.35:668][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.08.35:668][485]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.21-21.08.35:668][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.21-21.08.35:668][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.21-21.08.35:671][485]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.21-21.08.35:671][485]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneAB327876407DD94598CFD4A8CD5812A0.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.21-21.08.35:676][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/BP_Crane] ([5] browsable assets)...
+[2024.12.21-21.08.35:676][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/BP_Crane]
+[2024.12.21-21.08.35:676][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/BP_Crane.uasset" SILENT=true
+[2024.12.21-21.08.35:677][485]LogSavePackage: Moving output files for package: /Game/A_Character/BP_Crane
+[2024.12.21-21.08.35:677][485]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneFBFA0A8D4C68BA5D133207BB26DAE643.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/BP_Crane.uasset'
+[2024.12.21-21.08.35:680][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 12.010 ms (total: 1.03 sec)
+[2024.12.21-21.08.35:699][485]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.21-21.08.35:699][485]LogContentValidation: Display: Starting to validate 4 assets
+[2024.12.21-21.08.35:699][485]LogContentValidation: Enabled validators:
+[2024.12.21-21.08.35:699][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.08.35:699][485]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.08.35:699][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.08.35:699][485]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.08.35:699][485]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.08.35:699][485]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.08.35:699][485]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.21-21.08.35:699][485]AssetCheck: /Game/A_Character/BP_Crane Validating asset
+[2024.12.21-21.08.35:699][485]AssetCheck: /Game/A_Character/BP_Crane Validating asset
+[2024.12.21-21.08.35:699][485]AssetCheck: /Game/A_Character/BP_Crane Validating asset
+[2024.12.21-21.08.37:129][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.21-21.08.38:129][585]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.21-21.08.38:170][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.21-21.08.38:200][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.12.21-21.08.38:228][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.21-21.09.07:012][145]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.21-21.09.07:020][145]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.21-21.09.07:031][145]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.21-21.09.07:049][146]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.21-21.09.19:184][ 73]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_CraneController
+[2024.12.21-21.09.19:191][ 73]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.21-21.09.19:831][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.12.21-21.09.19:838][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.09.19:868][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/BP_CraneController] ([2] browsable assets)...
+[2024.12.21-21.09.19:868][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_CraneController]
+[2024.12.21-21.09.19:868][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_CraneController" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_CraneController.uasset" SILENT=true
+[2024.12.21-21.09.19:870][119]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_CraneController
+[2024.12.21-21.09.19:870][119]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneController6136919B42E7CE8AB2ED65B4063C27BF.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_CraneController.uasset'
+[2024.12.21-21.09.19:881][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.682 ms (total: 1.07 sec)
+[2024.12.21-21.09.19:910][119]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.09.19:910][119]LogContentValidation: Enabled validators:
+[2024.12.21-21.09.19:910][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.09.19:910][119]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.09.19:910][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.09.19:910][119]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.09.19:910][119]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.09.19:910][119]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.09.19:910][119]AssetCheck: /Game/A_Character/Crane/BP_CraneController Validating asset
+[2024.12.21-21.09.22:596][317]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_Character/Crane/BP_CraneController.BP_CraneController
+[2024.12.21-21.09.22:596][317]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2024.12.21-21.09.44:713][526]LogSlate: External Image Picker: DecompressImage failed
+[2024.12.21-21.10.03:867][300]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.21-21.10.03:874][300]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.21-21.10.04:731][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.10.04:816][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.21-21.10.04:844][339]LogSavePackage: Moving output files for package: /Game/A_Environment/Maps/Sandbox_01
+[2024.12.21-21.10.04:845][339]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Sandbox_019F49366240E0F61A95D33F87AFC112F5.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Environment/Maps/Sandbox_01.umap'
+[2024.12.21-21.10.04:852][339]LogFileHelpers: Saving map 'Sandbox_01' took 0.098
+[2024.12.21-21.10.04:858][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.280 ms (total: 1.20 sec)
+[2024.12.21-21.10.04:878][339]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.10.04:878][339]LogContentValidation: Enabled validators:
+[2024.12.21-21.10.04:878][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.10.04:878][339]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.10.04:878][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.10.04:878][339]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.10.04:878][339]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.10.04:878][339]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.10.04:879][339]AssetCheck: /Game/A_Environment/Maps/Sandbox_01 Validating asset
+[2024.12.21-21.10.49:714][303]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2011.317139
+[2024.12.21-21.10.49:825][312]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.21-21.10.49:825][312]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2011.414185, Update Interval: 352.076782
+[2024.12.21-21.11.33:265][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.21-21.11.33:996][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.11.34:017][554]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/BP_CraneController] ([2] browsable assets)...
+[2024.12.21-21.11.34:017][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_CraneController]
+[2024.12.21-21.11.34:017][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_CraneController" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_CraneController.uasset" SILENT=true
+[2024.12.21-21.11.34:020][554]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_CraneController
+[2024.12.21-21.11.34:020][554]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneController4158807D426E95E86A29C9BFD63381FD.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_CraneController.uasset'
+[2024.12.21-21.11.34:029][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 32.074 ms (total: 1.23 sec)
+[2024.12.21-21.11.34:059][554]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.11.34:059][554]LogContentValidation: Enabled validators:
+[2024.12.21-21.11.34:059][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.11.34:059][554]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.11.34:059][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.11.34:059][554]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.11.34:059][554]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.11.34:059][554]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.11.34:059][554]AssetCheck: /Game/A_Character/Crane/BP_CraneController Validating asset
+[2024.12.21-21.11.36:140][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.21-21.11.36:580][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.11.36:611][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/BP_CraneController] ([2] browsable assets)...
+[2024.12.21-21.11.36:611][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_CraneController]
+[2024.12.21-21.11.36:611][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_CraneController" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_CraneController.uasset" SILENT=true
+[2024.12.21-21.11.36:613][742]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_CraneController
+[2024.12.21-21.11.36:614][742]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneController769FA4CD432D37CB7581679E85E2E457.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_CraneController.uasset'
+[2024.12.21-21.11.36:621][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.449 ms (total: 1.27 sec)
+[2024.12.21-21.11.36:645][742]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.11.36:645][742]LogContentValidation: Enabled validators:
+[2024.12.21-21.11.36:645][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.11.36:645][742]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.11.36:645][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.11.36:645][742]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.11.36:645][742]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.11.36:645][742]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.11.36:645][742]AssetCheck: /Game/A_Character/Crane/BP_CraneController Validating asset
+[2024.12.21-21.14.58:575][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.12.21-21.14.59:262][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.14.59:293][553]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.21-21.14.59:361][553]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane]
+[2024.12.21-21.14.59:361][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.21-21.14.59:361][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.21-21.14.59:368][553]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.21-21.14.59:368][553]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneEB09A56F42186F38F6AC768D361B273D.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.21-21.14.59:378][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.733 ms (total: 1.38 sec)
+[2024.12.21-21.14.59:404][553]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.14.59:404][553]LogContentValidation: Enabled validators:
+[2024.12.21-21.14.59:404][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.14.59:404][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.14.59:404][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.14.59:404][553]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.14.59:404][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.14.59:404][553]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.14.59:404][553]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.21-21.15.22:151][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.15.22:179][149]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.21-21.15.22:179][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.21-21.15.22:179][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.21-21.15.22:185][149]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.21-21.15.22:185][149]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_Crane6506BF1A4F19C18490D46FBD908CBC35.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.21-21.15.22:194][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.959 ms (total: 1.43 sec)
+[2024.12.21-21.15.22:226][149]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.15.22:226][149]LogContentValidation: Enabled validators:
+[2024.12.21-21.15.22:226][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.15.22:226][149]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.15.22:226][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.15.22:226][149]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.15.22:226][149]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.15.22:226][149]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.15.22:226][149]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.21-21.15.24:456][285]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.21-21.15.24:463][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.21-21.15.24:464][285]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.21-21.15.24:468][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004826s)
+[2024.12.21-21.15.24:468][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004856s)
+[2024.12.21-21.15.24:496][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.21-21.15.24:502][285]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.21-21.15.24:504][285]LogPlayLevel: PIE: World Init took: (0.001591s)
+[2024.12.21-21.15.24:505][285]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.12.21-21.15.24:505][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.21-21.15.24:505][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.21-21.15.24:505][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.21-21.15.24:505][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.21-21.15.24:505][285]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.21-21.15.24:505][285]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.21-21.15.24:505][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.21-21.15.24:505][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.21-21.15.24:505][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.21-21.15.24:505][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.21-21.15.24:505][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.21-21.15.24:509][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.21-21.15.24:548][285]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.21-21.15.24:549][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.21-21.15.24:549][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.21-21.15.24:549][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.21-21.15.24:554][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.12.21-21.15.24:554][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.12.21-21.15.24:557][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.12.21-21.15.24:557][285]LogInit: FAudioDevice initialized with ID 4.
+[2024.12.21-21.15.24:557][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.12.21-21.15.24:557][285]LogAudio: Display: Audio Device (ID: 4) registered with world 'Sandbox_01'.
+[2024.12.21-21.15.24:557][285]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.12.21-21.15.24:560][285]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.21-21.15.24:561][285]LogVehicle: Warning: Vehicle BP_Crane_C_1 has no torque curve defined, disabling mechanical simulation.
+[2024.12.21-21.15.24:561][285]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.21-16.15.24
+[2024.12.21-21.15.24:562][285]LogWorld: Bringing up level for play took: 0.002186
+[2024.12.21-21.15.24:565][285]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.12.21-21.15.24:569][285]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.21-21.15.24:572][285]PIE: Server logged in
+[2024.12.21-21.15.24:573][285]PIE: Play in editor total start time 0.11 seconds.
+[2024.12.21-21.15.30:929][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.21-21.15.30:929][768]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.21-21.15.30:929][768]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.21-21.15.30:929][768]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.21-21.15.30:930][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-21.15.30:939][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.21-21.15.30:946][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-21.15.30:973][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.21-21.15.30:973][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.12.21-21.15.30:973][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.21-21.15.30:975][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.21-21.15.30:982][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.21-21.15.31:040][769]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.12.21-21.15.34:390][985]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.12.21-21.16.03:449][194]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.21-21.16.03:456][194]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.21-21.16.03:466][194]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.21-21.16.03:479][195]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.21-21.16.09:578][890]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ChaosWheel
+[2024.12.21-21.16.09:583][890]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.21-21.16.10:063][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.21-21.16.10:073][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.16.10:094][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2024.12.21-21.16.10:094][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2024.12.21-21.16.10:096][940]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.12.21-21.16.10:097][940]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_ThirdPersonGameMode2E8D6B624182962DADF942B9140CF11F.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.12.21-21.16.10:098][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/BP_ChaosWheel] ([2] browsable assets)...
+[2024.12.21-21.16.10:098][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_ChaosWheel]
+[2024.12.21-21.16.10:098][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_ChaosWheel" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_ChaosWheel.uasset" SILENT=true
+[2024.12.21-21.16.10:099][940]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_ChaosWheel
+[2024.12.21-21.16.10:099][940]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_ChaosWheelD828024444FF9E8A4FEE8F8D7C83F4EF.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_ChaosWheel.uasset'
+[2024.12.21-21.16.10:109][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.697 ms (total: 1.46 sec)
+[2024.12.21-21.16.10:131][940]LogContentValidation: Display: Starting to validate 2 assets
+[2024.12.21-21.16.10:131][940]LogContentValidation: Enabled validators:
+[2024.12.21-21.16.10:131][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.16.10:131][940]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.16.10:131][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.16.10:131][940]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.16.10:131][940]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.16.10:131][940]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.16.10:131][940]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2024.12.21-21.16.10:131][940]AssetCheck: /Game/A_Character/Crane/BP_ChaosWheel Validating asset
+[2024.12.21-21.16.11:231][ 52]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_Character/Crane/BP_ChaosWheel.BP_ChaosWheel
+[2024.12.21-21.16.11:231][ 52]LogChaosDD: Creating Chaos Debug Draw Scene for world World_11
+[2024.12.21-21.17.13:916][ 74]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2395.512207
+[2024.12.21-21.17.14:026][ 84]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.21-21.17.14:026][ 84]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2395.613770, Update Interval: 355.440552
+[2024.12.21-21.17.15:158][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.21-21.17.20:180][188]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.21-21.17.21:406][298]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.12.21-21.17.21:406][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-21.17.21:462][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.21-21.17.24:360][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.21-21.17.25:668][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.21-21.17.26:605][690]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.21-21.17.26:645][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.21-21.17.26:673][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.21-21.17.26:701][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.21-21.19.41:306][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.12.21-21.19.42:146][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.19.42:175][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.21-21.19.42:175][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.21-21.19.42:175][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.21-21.19.42:181][488]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.21-21.19.42:182][488]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneAE486B2D4ADA9008085079ABF69E5C8F.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.21-21.19.42:190][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.961 ms (total: 1.51 sec)
+[2024.12.21-21.19.42:218][488]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.19.42:218][488]LogContentValidation: Enabled validators:
+[2024.12.21-21.19.42:218][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.19.42:218][488]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.19.42:218][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.19.42:218][488]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.19.42:218][488]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.19.42:218][488]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.19.42:219][488]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.21-21.19.57:410][116]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.21-21.19.57:420][116]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.21-21.19.57:431][117]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.21-21.20.03:847][887]LogContentBrowser: Attempting asset rename: NewFolder -> Imports
+[2024.12.21-21.20.03:847][887]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.21-21.20.13:383][976]LogStreaming: Display: FlushAsyncLoading(504): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.21-21.22.31:503][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.12.21-21.22.32:125][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.22.32:153][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.21-21.22.32:153][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.21-21.22.32:153][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.21-21.22.32:159][742]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.21-21.22.32:160][742]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_Crane3370B15940CE1D00BC49AD81E0B3F042.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.21-21.22.32:167][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.193 ms (total: 1.55 sec)
+[2024.12.21-21.22.32:194][742]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.22.32:194][742]LogContentValidation: Enabled validators:
+[2024.12.21-21.22.32:194][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.22.32:194][742]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.22.32:194][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.22.32:194][742]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.22.32:194][742]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.22.32:194][742]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.22.32:194][742]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.21-21.24.02:684][298]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2804.285889
+[2024.12.21-21.24.02:766][308]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.21-21.24.02:767][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2804.360596, Update Interval: 314.167297
+[2024.12.21-21.24.03:942][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.12.21-21.24.04:515][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.24.04:544][499]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.21-21.24.04:544][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.21-21.24.04:544][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.21-21.24.04:549][499]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.21-21.24.04:549][499]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_Crane10023F3E4763286B61CF1F9DBEB7A446.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.21-21.24.04:556][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.954 ms (total: 1.59 sec)
+[2024.12.21-21.24.04:584][499]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.24.04:584][499]LogContentValidation: Enabled validators:
+[2024.12.21-21.24.04:584][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.24.04:584][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.24.04:584][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.24.04:584][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.24.04:584][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.24.04:584][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.24.04:585][499]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.21-21.24.44:975][ 89]LogStreaming: Display: FlushAsyncLoading(509): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.21-21.24.45:002][ 89]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/laure/Downloads/kenney_car-kit/Models/FBX format/debris-drivetrain.fbx]
+[2024.12.21-21.25.03:048][ 89]LogChaosDD: Creating Chaos Debug Draw Scene for world World_12
+[2024.12.21-21.25.17:359][ 89]LogSkeletalMesh: Building Skeletal Mesh SKM_Car_Template...
+[2024.12.21-21.25.17:360][ 89]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /ControlRigModules/Modules/Meshes/SKM_Car_Template.SKM_Car_Template
+[2024.12.21-21.25.36:001][ 89]LogSlate: Window 'Import Content' being destroyed
+[2024.12.21-21.25.36:023][ 89]LogInterchangeEngine: [Pending] Importing
+[2024.12.21-21.25.36:096][ 89]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2024.12.21-21.25.36:103][ 90]LogChaosDD: Creating Chaos Debug Draw Scene for world World_13
+[2024.12.21-21.25.36:140][ 90]LogStreaming: Display: FlushAsyncLoading(516): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.21-21.25.36:146][ 91]LogChaosDD: Creating Chaos Debug Draw Scene for world World_14
+[2024.12.21-21.25.36:195][ 91]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.21-21.25.36:231][ 92]LogStreaming: Display: FlushAsyncLoading(520): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.21-21.25.36:235][ 93]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2024.12.21-21.25.36:273][ 93]LogTexture: Display: Building textures: /Game/Imports/colormap.colormap (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2024.12.21-21.25.36:277][ 93]LogSkeletalMesh: Building Skeletal Mesh debris-drivetrain...
+[2024.12.21-21.25.36:282][ 94]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Imports/debris-drivetrain.debris-drivetrain
+[2024.12.21-21.25.36:340][ 95]LogChaosDD: Creating Chaos Debug Draw Scene for world World_15
+[2024.12.21-21.25.36:351][ 95]LogMaterial: Display: Material /Game/Imports/colormap1.colormap1 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.12.21-21.25.36:354][ 95]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.12.21-21.25.36:354][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-21.25.36:369][ 95]LogInterchangeEngine: Display: Interchange import completed [C:/Users/laure/Downl...it/Models/FBX format/debris-drivetrain.fbx]
+[2024.12.21-21.25.36:369][ 95]Interchange: Warning: [C:/Users/laure/Downloads/kenney_car-kit/Models/FBX format/debris-drivetrain.fbx : '', Unknown] Renamed Assets: 
+ OriginalName:[/Game/Imports/colormap] NewName:[/Game/Imports/colormap1]
+[2024.12.21-21.25.36:369][ 95]Interchange: Warning: [C:/Users/laure/Downloads/kenney_car-kit/Models/FBX format/debris-drivetrain.fbx : 'debris-drivetrain', SkeletalMesh] No smoothing group information was found for this mesh 'Scene' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2024.12.21-21.25.36:386][ 95]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2024.12.21-21.25.36:386][ 95]LogInterchangeEngine: [Success] Import Done
+[2024.12.21-21.25.36:416][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.21-21.25.39:549][322]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /ControlRigModules/Modules/Meshes/SK_Car_Template.SK_Car_Template
+[2024.12.21-21.25.39:566][322]LogChaosDD: Creating Chaos Debug Draw Scene for world World_16
+[2024.12.21-21.25.39:572][322]LogStreaming: Display: FlushAsyncLoading(521): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.21-21.25.39:577][322]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2024.12.21-21.25.39:590][322]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2024.12.21-21.25.39:603][322]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2024.12.21-21.25.39:604][322]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2024.12.21-21.25.39:611][322]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.21-21.25.39:982][322]LogChaosDD: Creating Chaos Debug Draw Scene for world World_17
+[2024.12.21-21.25.49:288][292]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.12.21-21.25.49:288][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-21.25.49:343][292]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.12.21-21.25.49:343][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-21.25.49:397][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.21-21.25.54:816][935]LogChaosDD: Creating Chaos Debug Draw Scene for world World_18
+[2024.12.21-21.25.54:903][936]LogChaosDD: Creating Chaos Debug Draw Scene for world World_19
+[2024.12.21-21.25.54:925][937]LogChaosDD: Creating Chaos Debug Draw Scene for world World_20
+[2024.12.21-21.26.05:960][218]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Imports/debris-drivetrain_Skeleton.debris-drivetrain_Skeleton
+[2024.12.21-21.26.05:960][218]LogChaosDD: Creating Chaos Debug Draw Scene for world World_21
+[2024.12.21-21.26.05:966][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.21-21.26.06:200][218]LogChaosDD: Creating Chaos Debug Draw Scene for world World_22
+[2024.12.21-21.26.29:647][481]LogSlate: Window 'Message' being destroyed
+[2024.12.21-21.26.29:683][481]Message dialog closed, result: Yes, title: Message, text: This action can't be undone. Would you like to continue?
+[2024.12.21-21.26.29:684][481]LogSkeletalMesh: Building Skeletal Mesh debris-drivetrain...
+[2024.12.21-21.26.29:690][481]LogSkeletalMesh: Skeletal mesh [/Game/Imports/debris-drivetrain.debris-drivetrain]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2024.12.21-21.26.29:690][481]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Imports/debris-drivetrain.debris-drivetrain
+[2024.12.21-21.26.34:290][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.26.34:319][935]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imports/debris-drivetrain_Skeleton] ([1] browsable assets)...
+[2024.12.21-21.26.34:326][935]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Imports/debris-drivetrain_Skeleton.debris-drivetrain_Skeleton]
+[2024.12.21-21.26.34:326][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imports/debris-drivetrain_Skeleton]
+[2024.12.21-21.26.34:326][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imports/debris-drivetrain_Skeleton" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Imports/debris-drivetrain_Skeleton.uasset" SILENT=true
+[2024.12.21-21.26.34:329][935]LogSavePackage: Moving output files for package: /Game/Imports/debris-drivetrain_Skeleton
+[2024.12.21-21.26.34:329][935]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/debris-drivetrain_Skeleton4044112C446E7CC4CA4A73965436302E.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Imports/debris-drivetrain_Skeleton.uasset'
+[2024.12.21-21.26.34:346][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.981 ms (total: 1.65 sec)
+[2024.12.21-21.26.34:367][935]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.26.34:367][935]LogContentValidation: Enabled validators:
+[2024.12.21-21.26.34:367][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.26.34:367][935]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.26.34:367][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.26.34:367][935]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.26.34:367][935]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.26.34:367][935]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.26.34:367][935]AssetCheck: /Game/Imports/debris-drivetrain_Skeleton Validating asset
+[2024.12.21-21.27.59:364][778]Cmd: TRANSACTION UNDO
+[2024.12.21-21.27.59:364][778]LogEditorTransaction: Undo Rename Virtual Bone in Skeleton
+[2024.12.21-21.27.59:531][778]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.21-21.27.59:638][780]Cmd: TRANSACTION UNDO
+[2024.12.21-21.27.59:638][780]LogEditorTransaction: Undo Add Virtual Bone to Skeleton
+[2024.12.21-21.27.59:792][780]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.21-21.28.36:094][ 31]LogShaderCompilers: Display: ================================================
+[2024.12.21-21.28.36:094][ 31]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.21-21.28.36:094][ 31]LogShaderCompilers: Display: Total job queries 345, among them cache hits 39 (11.30%), DDC hits 251 (72.75%), Duplicates 9 (2.61%)
+[2024.12.21-21.28.36:094][ 31]LogShaderCompilers: Display: Tracking 297 distinct input hashes that result in 269 distinct outputs (90.57%)
+[2024.12.21-21.28.36:094][ 31]LogShaderCompilers: Display: RAM used: 200.24 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.12.21-21.28.36:094][ 31]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.21-21.28.36:094][ 31]LogShaderCompilers: Display: Shaders Compiled: 46
+[2024.12.21-21.28.36:094][ 31]LogShaderCompilers: Display: Jobs assigned 46, completed 46 (100%)
+[2024.12.21-21.28.36:094][ 31]LogShaderCompilers: Display: Average time worker was idle: 198.97 s
+[2024.12.21-21.28.36:094][ 31]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.08 s
+[2024.12.21-21.28.36:094][ 31]LogShaderCompilers: Display: Job execution time: average 0.91 s, max 2.40 s
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Job life time (pending + execution): average 0.97 s, max 2.47
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Shader code size: average 9.233 KiB, min 2.332 KiB, max 26.494 KiB
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.02 s
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Jobs were issued in 46 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Average processing rate: 5.10 jobs/sec
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Total thread time: 20.927 s
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Total thread preprocess time: 6.657 s
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Percentage time preprocessing: 31.81%
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Effective parallelization: 2.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.29 sec, max 1.30 sec, min 1.28 sec)
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.86 sec, max 1.02 sec, min 0.65 sec)
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.63 sec, max 0.64 sec, min 0.63 sec)
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.54 sec, max 0.66 sec, min 0.40 sec)
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.54% of total time (compiled    5 times, average 0.86 sec, max 1.02 sec, min 0.65 sec)
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.48% of total time (compiled    6 times, average 0.54 sec, max 0.66 sec, min 0.40 sec)
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.33% of total time (compiled    2 times, average 1.29 sec, max 1.30 sec, min 1.28 sec)
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.99% of total time (compiled    6 times, average 0.35 sec, max 0.45 sec, min 0.24 sec)
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display:                                               FNiagaraShader - 9.04% of total time (compiled   11 times, average 0.17 sec, max 0.33 sec, min 0.08 sec)
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: === Material stats ===
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Materials Translated:    166
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Material Translation Only: 0.08 s (62%)
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: Material Cache Hits: 46 (28%)
+[2024.12.21-21.28.36:095][ 31]LogShaderCompilers: Display: ================================================
+[2024.12.21-21.29.22:294][556]LogSlate: Window 'Plugins' being destroyed
+[2024.12.21-21.29.22:299][556]LogSlate: Window 'Plugins' being destroyed
+[2024.12.21-21.29.58:084][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3159.690430
+[2024.12.21-21.29.58:184][323]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.21-21.29.58:184][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3159.782227, Update Interval: 305.746033
+[2024.12.21-21.29.58:725][387]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Imports/debris-drivetrain.debris-drivetrain
+[2024.12.21-21.29.58:725][387]LogChaosDD: Creating Chaos Debug Draw Scene for world World_23
+[2024.12.21-21.29.58:733][387]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.21-21.30.04:067][893]LogStreaming: Display: FlushAsyncLoading(525): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: ================================================
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Total job queries 351, among them cache hits 41 (11.68%), DDC hits 251 (71.51%), Duplicates 9 (2.56%)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Tracking 301 distinct input hashes that result in 271 distinct outputs (90.03%)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: RAM used: 200.89 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Shaders Compiled: 50
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Jobs assigned 50, completed 50 (100%)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Average time worker was idle: 198.96 s
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.08 s
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Job execution time: average 0.89 s, max 2.40 s
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Job life time (pending + execution): average 0.95 s, max 2.47
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Shader code size: average 9.081 KiB, min 2.332 KiB, max 26.494 KiB
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.59 s
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Jobs were issued in 50 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Average processing rate: 4.72 jobs/sec
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Total thread time: 22.468 s
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Total thread preprocess time: 6.719 s
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Percentage time preprocessing: 29.91%
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Effective parallelization: 2.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.29 sec, max 1.30 sec, min 1.28 sec)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.86 sec, max 1.02 sec, min 0.65 sec)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.63 sec, max 0.64 sec, min 0.63 sec)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.55 sec, max 0.66 sec, min 0.40 sec)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 19.13% of total time (compiled    5 times, average 0.86 sec, max 1.02 sec, min 0.65 sec)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.13% of total time (compiled    7 times, average 0.55 sec, max 0.66 sec, min 0.40 sec)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.48% of total time (compiled    2 times, average 1.29 sec, max 1.30 sec, min 1.28 sec)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.78% of total time (compiled    7 times, average 0.35 sec, max 0.45 sec, min 0.24 sec)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display:                                               FNiagaraShader - 8.42% of total time (compiled   11 times, average 0.17 sec, max 0.33 sec, min 0.08 sec)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: === Material stats ===
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Materials Translated:    168
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Material Translation Only: 0.08 s (62%)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: Material Cache Hits: 46 (27%)
+[2024.12.21-21.31.36:100][259]LogShaderCompilers: Display: ================================================
+[2024.12.21-21.33.04:001][384]LogSkeletalMesh: Building Skeletal Mesh debris-drivetrain...
+[2024.12.21-21.33.04:007][384]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Imports/debris-drivetrain.debris-drivetrain
+[2024.12.21-21.33.04:008][384]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2024.12.21-21.33.04:008][384]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2024.12.21-21.33.11:796][223]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.12.21-21.33.11:796][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-21.33.11:858][223]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.12.21-21.33.11:858][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-21.33.11:939][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.12.21-21.33.23:706][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.33.23:725][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imports/debris-drivetrain] ([1] browsable assets)...
+[2024.12.21-21.33.23:733][563]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Imports/debris-drivetrain.debris-drivetrain]
+[2024.12.21-21.33.23:733][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imports/debris-drivetrain]
+[2024.12.21-21.33.23:733][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imports/debris-drivetrain" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Imports/debris-drivetrain.uasset" SILENT=true
+[2024.12.21-21.33.23:744][563]LogSavePackage: Moving output files for package: /Game/Imports/debris-drivetrain
+[2024.12.21-21.33.23:744][563]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/debris-drivetrain5BADF9E94EAF47A14DC913B4F8B51F18.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Imports/debris-drivetrain.uasset'
+[2024.12.21-21.33.23:754][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.682 ms (total: 1.70 sec)
+[2024.12.21-21.33.23:780][563]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.33.23:780][563]LogContentValidation: Enabled validators:
+[2024.12.21-21.33.23:780][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.33.23:780][563]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.33.23:780][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.33.23:780][563]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.33.23:780][563]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.33.23:780][563]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.33.23:780][563]AssetCheck: /Game/Imports/debris-drivetrain Validating asset
+[2024.12.21-21.33.26:458][866]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Imports/debris-drivetrain_Skeleton.debris-drivetrain_Skeleton
+[2024.12.21-21.33.26:458][866]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2024.12.21-21.33.26:465][866]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.21-21.33.26:498][866]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2024.12.21-21.33.26:684][866]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2024.12.21-21.33.32:124][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.33.32:150][440]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imports/debris-drivetrain_Skeleton] ([1] browsable assets)...
+[2024.12.21-21.33.32:158][440]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Imports/debris-drivetrain_Skeleton.debris-drivetrain_Skeleton]
+[2024.12.21-21.33.32:158][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imports/debris-drivetrain_Skeleton]
+[2024.12.21-21.33.32:158][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imports/debris-drivetrain_Skeleton" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Imports/debris-drivetrain_Skeleton.uasset" SILENT=true
+[2024.12.21-21.33.32:159][440]LogSavePackage: Moving output files for package: /Game/Imports/debris-drivetrain_Skeleton
+[2024.12.21-21.33.32:159][440]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/debris-drivetrain_SkeletonB7C0EADD42CD1B7CD5113989E5694291.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Imports/debris-drivetrain_Skeleton.uasset'
+[2024.12.21-21.33.32:167][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.841 ms (total: 1.74 sec)
+[2024.12.21-21.33.32:191][440]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.33.32:191][440]LogContentValidation: Enabled validators:
+[2024.12.21-21.33.32:191][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.33.32:191][440]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.33.32:191][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.33.32:191][440]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.33.32:191][440]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.33.32:191][440]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.33.32:191][440]AssetCheck: /Game/Imports/debris-drivetrain_Skeleton Validating asset
+[2024.12.21-21.33.39:402][254]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.33.39:403][254]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.33.39:405][254]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.33.39:405][254]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.33.39:406][254]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.33.39:406][254]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.33.54:024][803]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.35.01:272][180]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.12.21-21.35.01:272][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-21.35.01:330][180]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.12.21-21.35.01:330][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-21.35.01:390][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.21-21.35.59:895][800]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3521.482910
+[2024.12.21-21.35.59:983][809]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.21-21.35.59:983][809]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3521.561035, Update Interval: 314.260681
+[2024.12.21-21.36.00:886][901]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.00:887][901]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.00:887][901]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.00:888][901]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.00:901][901]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.02:324][ 46]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.02:325][ 46]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.02:326][ 46]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.02:327][ 46]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.02:339][ 46]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.03:553][174]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.03:554][174]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.03:555][174]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.03:555][174]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.03:568][174]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.04:920][313]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.04:921][313]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.04:921][313]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.04:921][313]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.04:934][313]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.25:594][585]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.25:595][585]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.25:596][585]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.25:596][585]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.25:612][585]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.30:749][127]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.30:750][127]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.30:751][127]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.30:751][127]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.30:764][127]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.35:764][664]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.35:764][664]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.35:766][664]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.35:766][664]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.35:779][664]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.39:389][ 38]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.39:389][ 38]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.39:389][ 38]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.39:390][ 38]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.39:406][ 38]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.39:966][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.12.21-21.36.39:976][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.36.40:016][ 97]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.21-21.36.40:016][ 97]LogChaosDD: Creating Chaos Debug Draw Scene for world World_26
+[2024.12.21-21.36.40:030][ 97]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/A_Character/Crane/BP_Crane.BP_Crane_C]
+[2024.12.21-21.36.40:035][ 97]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane]
+[2024.12.21-21.36.40:035][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.21-21.36.40:035][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.21-21.36.40:041][ 97]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.21-21.36.40:041][ 97]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_Crane8B577FA34F5DBC1658B165B8BD736CDA.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.21-21.36.40:042][ 97]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imports/debris-drivetrain_PhysicsAsset] ([1] browsable assets)...
+[2024.12.21-21.36.40:046][ 97]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Imports/debris-drivetrain_PhysicsAsset.debris-drivetrain_PhysicsAsset]
+[2024.12.21-21.36.40:046][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imports/debris-drivetrain_PhysicsAsset]
+[2024.12.21-21.36.40:046][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imports/debris-drivetrain_PhysicsAsset" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Imports/debris-drivetrain_PhysicsAsset.uasset" SILENT=true
+[2024.12.21-21.36.40:048][ 97]LogSavePackage: Moving output files for package: /Game/Imports/debris-drivetrain_PhysicsAsset
+[2024.12.21-21.36.40:048][ 97]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/debris-drivetrain_PhysicsAsset7E9055DA4B346838FAAA7793A60FD713.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Imports/debris-drivetrain_PhysicsAsset.uasset'
+[2024.12.21-21.36.40:052][ 97]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imports/colormap] ([1] browsable assets)...
+[2024.12.21-21.36.40:053][ 97]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Imports/colormap.colormap]
+[2024.12.21-21.36.40:053][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imports/colormap]
+[2024.12.21-21.36.40:053][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imports/colormap" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Imports/colormap.uasset" SILENT=true
+[2024.12.21-21.36.40:056][ 97]LogSavePackage: Moving output files for package: /Game/Imports/colormap
+[2024.12.21-21.36.40:056][ 97]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/colormap57970F76456678176F51DDB38220B6AB.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Imports/colormap.uasset'
+[2024.12.21-21.36.40:058][ 97]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Imports/colormap1] ([1] browsable assets)...
+[2024.12.21-21.36.40:064][ 97]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Imports/colormap1.colormap1]
+[2024.12.21-21.36.40:064][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imports/colormap1]
+[2024.12.21-21.36.40:064][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imports/colormap1" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Imports/colormap1.uasset" SILENT=true
+[2024.12.21-21.36.40:066][ 97]LogSavePackage: Moving output files for package: /Game/Imports/colormap1
+[2024.12.21-21.36.40:066][ 97]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/colormap153E2C21E4A8493E89F3E79B71C0560EC.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Imports/colormap1.uasset'
+[2024.12.21-21.36.40:073][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.288 ms (total: 1.84 sec)
+[2024.12.21-21.36.40:102][ 97]LogContentValidation: Display: Starting to validate 4 assets
+[2024.12.21-21.36.40:102][ 97]LogContentValidation: Enabled validators:
+[2024.12.21-21.36.40:102][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.36.40:102][ 97]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.36.40:102][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.36.40:103][ 97]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.36.40:103][ 97]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.36.40:103][ 97]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.36.40:103][ 97]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.21-21.36.40:103][ 97]AssetCheck: /Game/Imports/debris-drivetrain_PhysicsAsset Validating asset
+[2024.12.21-21.36.40:103][ 97]AssetCheck: /Game/Imports/colormap Validating asset
+[2024.12.21-21.36.40:103][ 97]AssetCheck: /Game/Imports/colormap1 Validating asset
+[2024.12.21-21.36.43:625][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.43:641][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.43:641][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.43:641][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.43:700][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.21-21.36.43:703][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.43:703][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.43:704][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.43:704][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.43:713][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.43:713][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1.VehicleMesh'
+[2024.12.21-21.36.43:713][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.43:714][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.43:782][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.BP_Crane_C_0.VehicleMesh'
+[2024.12.21-21.36.44:372][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.36.44:399][525]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.21-21.36.44:406][525]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane]
+[2024.12.21-21.36.44:406][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.21-21.36.44:406][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.21-21.36.44:412][525]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.21-21.36.44:413][525]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneB3F9E75B42E2B141D37B1BA99354823D.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.21-21.36.44:421][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.106 ms (total: 1.88 sec)
+[2024.12.21-21.36.44:440][525]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.36.44:440][525]LogContentValidation: Enabled validators:
+[2024.12.21-21.36.44:440][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.36.44:440][525]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.36.44:440][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.36.44:440][525]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.36.44:440][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.36.44:440][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.36.44:440][525]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.21-21.37.14:550][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.37.14:580][659]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.21-21.37.14:580][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.21-21.37.14:580][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.21-21.37.14:586][659]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.21-21.37.14:587][659]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneB356098B42A02F106C95178240CE7183.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.21-21.37.14:594][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.884 ms (total: 1.93 sec)
+[2024.12.21-21.37.14:623][659]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.37.14:623][659]LogContentValidation: Enabled validators:
+[2024.12.21-21.37.14:623][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.37.14:623][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.37.14:623][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.37.14:623][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.37.14:623][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.37.14:623][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.37.14:623][659]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.21-21.37.34:132][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.21-21.37.37:894][619]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.21-21.37.38:790][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.21-21.37.39:330][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-21.37.39:350][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.21-21.37.39:350][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.21-21.37.39:350][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.21-21.37.39:355][738]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.21-21.37.39:355][738]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_Crane33A0E2F34FFB30CA90C6CE9E361538C0.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.21-21.37.39:363][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.288 ms (total: 1.96 sec)
+[2024.12.21-21.37.39:391][738]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-21.37.39:391][738]LogContentValidation: Enabled validators:
+[2024.12.21-21.37.39:391][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-21.37.39:391][738]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-21.37.39:391][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-21.37.39:391][738]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-21.37.39:391][738]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-21.37.39:391][738]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-21.37.39:391][738]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.21-21.37.42:685][ 83]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.12.21-21.37.42:685][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-21.37.42:731][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.21-21.37.45:361][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.21-21.37.50:960][334]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.21-21.37.51:068][334]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Imports/colormap.colormap
+	Asset Type: Texture2D
+	Asset Name: /Game/Imports/colormap1.colormap1
+	Asset Type: Material
+	Asset Name: /Game/Imports/debris-drivetrain.debris-drivetrain
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Imports/debris-drivetrain_PhysicsAsset.debris-drivetrain_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Imports/debris-drivetrain_Skeleton.debris-drivetrain_Skeleton
+	Asset Type: Skeleton
+[2024.12.21-21.37.51:449][334]LogMaterial: Warning: [AssetLog] C:\code\2024Q4\CraneGame2024\CraneGame\Content\Imports\colormap1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2024.12.21-21.37.51:450][334]LogMaterial: Warning: [AssetLog] C:\code\2024Q4\CraneGame2024\CraneGame\Content\Imports\colormap1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2024.12.21-21.37.51:817][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.21-21.37.51:847][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.12.21-21.37.51:876][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.21-21.37.54:291][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms

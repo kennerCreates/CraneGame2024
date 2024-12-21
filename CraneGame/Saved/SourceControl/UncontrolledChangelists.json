@@ -9,6 +9,16 @@
 				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/BP_Crane.uasset",
 				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/BP_Crane_Char.uasset",
 				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Gameplay/Input/IMC_DriveCrane.uasset",
+				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Gameplay/Input/Actions/IA_Drive.uasset",
+				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset",
+				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_CraneController.uasset",
+				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_ChaosWheel.uasset",
+				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/Imports/debris-drivetrain_Skeleton.uasset",
+				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/Imports/debris-drivetrain.uasset",
+				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/Imports/debris-drivetrain_PhysicsAsset.uasset",
+				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/Imports/colormap.uasset",
+				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/Imports/colormap1.uasset",
 				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/Environment/Maps/Sandbox_01.umap"
 			]
 		}
