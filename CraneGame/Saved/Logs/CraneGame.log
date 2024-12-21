@@ -1388,3 +1388,350 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.21-20.00.12:741][130]LogDirectoryWatcher: Display: A directory notification failed for 'C:/code/2024Q4/CraneGame2024/CraneGame/Saved/Collections/' because it could not be accessed. Aborting watch request...
 [2024.12.21-20.00.12:741][130]LogDirectoryWatcher: Display: A directory notification failed for 'C:/code/2024Q4/CraneGame2024/CraneGame/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2024.12.21-20.00.12:741][130]LogDirectoryWatcher: Display: A directory notification failed for 'C:/code/2024Q4/CraneGame2024/CraneGame/Content/Developers/laure/Collections/' because it could not be accessed. Aborting watch request...
+[2024.12.21-20.02.09:406][837]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.21-20.02.09:419][837]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.21-20.02.09:419][837]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.21-20.02.09:421][837]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.249 ms
+[2024.12.21-20.02.09:422][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.21-20.02.09:427][837]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.12.21-20.02.09:427][837]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.12.21-20.02.09:428][837]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.21-20.02.09:431][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003925s)
+[2024.12.21-20.02.09:431][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003961s)
+[2024.12.21-20.02.09:471][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.21-20.02.09:471][837]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.21-20.02.09:474][837]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.21-20.02.09:474][837]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.21-20.02.09:474][837]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.21-20.02.09:474][837]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.21-20.02.09:475][837]LogWorldPartition: Display: WorldPartition initialize took 1.164 ms (total: 35.119 ms)
+[2024.12.21-20.02.09:475][837]LogPlayLevel: PIE: World Init took: (0.003047s)
+[2024.12.21-20.02.09:475][837]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.12.21-20.02.09:475][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.21-20.02.09:475][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.21-20.02.09:475][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.21-20.02.09:475][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.21-20.02.09:475][837]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.21-20.02.09:476][837]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.21-20.02.09:476][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.21-20.02.09:476][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.21-20.02.09:476][837]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.21-20.02.09:476][837]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.21-20.02.09:476][837]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.21-20.02.09:478][837]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.21-20.02.09:514][837]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.21-20.02.09:514][837]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.21-20.02.09:514][837]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.21-20.02.09:514][837]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.21-20.02.09:514][837]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.12.21-20.02.09:514][837]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.12.21-20.02.09:516][837]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.12.21-20.02.09:516][837]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.12.21-20.02.09:516][837]LogInit: FAudioDevice initialized with ID 2.
+[2024.12.21-20.02.09:516][837]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2024.12.21-20.02.09:516][837]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.21-20.02.09:519][837]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.21-20.02.09:520][837]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.12.21-15.02.09
+[2024.12.21-20.02.09:521][837]LogWorld: Bringing up level for play took: 0.001609
+[2024.12.21-20.02.09:523][837]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2024.12.21-20.02.09:536][837]PIE: Server logged in
+[2024.12.21-20.02.09:538][837]PIE: Play in editor total start time 0.127 seconds.
+[2024.12.21-20.02.27:141][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.21-20.02.27:141][775]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.21-20.02.27:141][775]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.21-20.02.27:141][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-20.02.27:141][775]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.21-20.02.27:145][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.21-20.02.27:147][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-20.02.27:159][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.21-20.02.27:159][775]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.21-20.02.27:159][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.21-20.02.27:160][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.21-20.02.27:167][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.12.21-20.02.27:228][777]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.12.21-20.03.00:631][777]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 348.543060
+[2024.12.21-20.03.00:731][789]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.21-20.03.00:731][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 348.634796, Update Interval: 323.526123
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: ================================================
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Total job queries 157, among them cache hits 11 (7.01%), DDC hits 133 (84.71%), Duplicates 1 (0.64%)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Tracking 145 distinct input hashes that result in 138 distinct outputs (95.17%)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: RAM used: 118.96 KiB of 3.20 GiB budget. Usage: 0.00%
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Shaders Compiled: 12
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.07 s
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Job execution time: average 1.34 s, max 1.80 s
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Job life time (pending + execution): average 1.40 s, max 1.84
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Shader code size: average 8.996 KiB, min 5.012 KiB, max 16.207 KiB
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.87 s
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Average processing rate: 6.41 jobs/sec
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Total thread time: 8.516 s
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Total thread preprocess time: 3.823 s
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Percentage time preprocessing: 44.90%
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Effective parallelization: 4.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.17 sec, max 1.18 sec, min 1.15 sec)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.79 sec, max 0.80 sec, min 0.78 sec)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.54 sec, max 0.55 sec, min 0.52 sec)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    2 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.47 sec, max 0.48 sec, min 0.47 sec)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.45% of total time (compiled    2 times, average 1.17 sec, max 1.18 sec, min 1.15 sec)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.60% of total time (compiled    2 times, average 0.79 sec, max 0.80 sec, min 0.78 sec)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.62% of total time (compiled    2 times, average 0.54 sec, max 0.55 sec, min 0.52 sec)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display:                                                FAnisotropyPS - 12.22% of total time (compiled    2 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.10% of total time (compiled    2 times, average 0.47 sec, max 0.48 sec, min 0.47 sec)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: === Material stats ===
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Materials Translated:    129
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Material Translation Only: 0.03 s (53%)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: Material Cache Hits: 28 (22%)
+[2024.12.21-20.03.16:416][662]LogShaderCompilers: Display: ================================================
+[2024.12.21-20.03.59:808][751]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.21-20.04.09:404][886]LogStreaming: Display: FlushAsyncLoading(390): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.21-20.04.09:453][887]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2024.12.21-20.04.11:720][135]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2024.12.21-20.04.11:766][136]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2024.12.21-20.05.28:722][305]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.21-20.05.28:727][305]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.21-20.05.28:735][306]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.21-20.05.33:171][839]LogContentBrowser: Attempting asset rename: NewFolder -> Environment
+[2024.12.21-20.05.33:171][839]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.21-20.05.48:141][613]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.21-20.05.51:254][961]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.21-20.05.51:274][961]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.21-20.05.51:287][963]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.21-20.05.52:967][165]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2024.12.21-20.05.52:967][165]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.21-20.06.01:548][169]LogStreaming: Display: FlushAsyncLoading(391): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.21-20.06.05:373][169]LogSlate: Window 'New Level' being destroyed
+[2024.12.21-20.06.05:432][169]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.21-20.06.05:432][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-20.06.05:432][169]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.12.21-20.06.05:447][169]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.21-20.06.05:453][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.21-20.06.05:461][169]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2024.12.21-20.06.05:470][169]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.12.21-20.06.05:813][172]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 271.64 ms. Compile time 268.97 ms, link time 2.63 ms.
+[2024.12.21-20.06.06:062][172]LogD3D12RHI: Creating RTPSO with 17 shaders (0 cached, 17 new) took 521.59 ms. Compile time 510.96 ms, link time 10.61 ms.
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: ================================================
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Total job queries 167, among them cache hits 11 (6.59%), DDC hits 133 (79.64%), Duplicates 6 (3.59%)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Tracking 150 distinct input hashes that result in 141 distinct outputs (94.00%)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: RAM used: 119.85 KiB of 3.20 GiB budget. Usage: 0.00%
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Shaders Compiled: 17
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Jobs assigned 17, completed 17 (100%)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Average time worker was idle: 118.81 s
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.07 s
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Job execution time: average 1.19 s, max 1.80 s
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Job life time (pending + execution): average 1.26 s, max 1.84
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Shader code size: average 8.615 KiB, min 4.402 KiB, max 16.207 KiB
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.17 s
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Average processing rate: 5.36 jobs/sec
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Total thread time: 10.719 s
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Total thread preprocess time: 3.938 s
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Percentage time preprocessing: 36.74%
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Effective parallelization: 3.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.06 sec, max 1.18 sec, min 0.84 sec)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.68 sec, max 0.80 sec, min 0.44 sec)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    2 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    3 times, average 0.48 sec, max 0.55 sec, min 0.38 sec)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.41 sec, max 0.48 sec, min 0.29 sec)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 29.67% of total time (compiled    3 times, average 1.06 sec, max 1.18 sec, min 0.84 sec)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.91% of total time (compiled    3 times, average 0.68 sec, max 0.80 sec, min 0.44 sec)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display:                                                 FLumenCardPS - 13.57% of total time (compiled    3 times, average 0.48 sec, max 0.55 sec, min 0.38 sec)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.54% of total time (compiled    3 times, average 0.41 sec, max 0.48 sec, min 0.29 sec)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.42% of total time (compiled    3 times, average 0.37 sec, max 0.45 sec, min 0.25 sec)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: === Material stats ===
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Materials Translated:    129
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Material Translation Only: 0.03 s (53%)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: Material Cache Hits: 28 (22%)
+[2024.12.21-20.06.16:655][493]LogShaderCompilers: Display: ================================================
+[2024.12.21-20.06.35:727][  3]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.21-20.06.37:090][  3]LogStaticMesh: Display: Building static mesh 2D_Turbulence_Disk (Required Memory Estimate: 10.010029 MB)...
+[2024.12.21-20.06.37:090][  3]LogStaticMesh: Display: Building static mesh Space_Planet (Required Memory Estimate: 9.01518 MB)...
+[2024.12.21-20.06.37:090][  3]LogStaticMesh: Display: Building static mesh Space_Glow_Circle (Required Memory Estimate: 0.040335 MB)...
+[2024.12.21-20.06.37:090][  3]LogStaticMesh: Display: Building static mesh Compass (Required Memory Estimate: 0.220205 MB)...
+[2024.12.21-20.06.37:091][  3]LogStaticMesh: Display: Building static mesh Ultra_Dynamic_Sky_Sphere (Required Memory Estimate: 12.327505 MB)...
+[2024.12.21-20.06.37:092][  3]LogStaticMesh: Built static mesh [0.00s] /Game/UltraDynamicSky/Meshes/Space_Glow_Circle.Space_Glow_Circle
+[2024.12.21-20.06.37:092][  3]LogStaticMesh: Built static mesh [0.00s] /Game/UltraDynamicSky/Meshes/Compass.Compass
+[2024.12.21-20.06.37:092][  3]LogStaticMesh: Display: Building static mesh Portal_Arrow (Required Memory Estimate: 0.131505 MB)...
+[2024.12.21-20.06.37:093][  3]LogStaticMesh: Built static mesh [0.00s] /Game/UltraDynamicSky/Meshes/Portal_Arrow.Portal_Arrow
+[2024.12.21-20.06.37:117][  3]LogStaticMesh: Built static mesh [0.03s] /Game/UltraDynamicSky/Meshes/Ultra_Dynamic_Sky_Sphere.Ultra_Dynamic_Sky_Sphere
+[2024.12.21-20.06.37:119][  3]LogStaticMesh: Built static mesh [0.03s] /Game/UltraDynamicSky/Meshes/Space_Planet.Space_Planet
+[2024.12.21-20.06.37:126][  3]LogStaticMesh: Built static mesh [0.04s] /Game/UltraDynamicSky/Meshes/2D_Turbulence_Disk.2D_Turbulence_Disk
+[2024.12.21-20.06.37:131][  3]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C
+[2024.12.21-20.06.37:131][  3]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C
+[2024.12.21-20.06.37:301][  3]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Clouds/clouds_diverse.clouds_diverse (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 144.999992 MB), EncodeSpeed: Fast
+[2024.12.21-20.06.37:398][  3]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Sky/LightRay_Card.LightRay_Card (TFO_BC4, 64x64 x1x1x1) (Required Memory Estimate: 1.667927 MB), EncodeSpeed: Fast
+[2024.12.21-20.06.37:443][  3]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Sky/FlatCubemap.FlatCubemap (RGBA16F, 512x256 x1x1x1) (Required Memory Estimate: 15.500 MB), EncodeSpeed: Fast
+[2024.12.21-20.06.37:444][  3]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.21-20.06.37:445][  3]r.VolumetricRenderTarget.Mode = "2"
+[2024.12.21-20.06.37:462][  3]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Sky/Moon_Masks.Moon_Masks (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 36.999992 MB), EncodeSpeed: Fast
+[2024.12.21-20.06.37:548][  3]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2024.12.21-20.06.37:562][  3]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky as actor: Ultra_Dynamic_Sky_C /Temp/Untitled_1.Untitled:PersistentLevel.Ultra_Dynamic_Sky_C_0
+[2024.12.21-20.06.37:590][  3]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky as actor: Ultra_Dynamic_Sky_C /Temp/Untitled_1.Untitled:PersistentLevel.Ultra_Dynamic_Sky_C_0
+[2024.12.21-20.06.37:659][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.21-20.06.37:660][  3]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2024.12.21-20.06.38:314][ 46]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C
+[2024.12.21-20.06.38:314][ 46]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C
+[2024.12.21-20.06.38:330][ 46]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky as actor: Ultra_Dynamic_Sky_C /Temp/Untitled_1.Untitled:PersistentLevel.Ultra_Dynamic_Sky_C_1
+[2024.12.21-20.06.38:345][ 46]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky as actor: Ultra_Dynamic_Sky_C /Temp/Untitled_1.Untitled:PersistentLevel.Ultra_Dynamic_Sky_C_1
+[2024.12.21-20.06.38:821][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.12.21-20.06.38:826][ 69]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2024.12.21-20.06.38:836][ 69]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C
+[2024.12.21-20.06.38:836][ 69]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C
+[2024.12.21-20.06.38:854][ 69]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky as actor: Ultra_Dynamic_Sky_C /Temp/Untitled_1.Untitled:PersistentLevel.Ultra_Dynamic_Sky_C_2
+[2024.12.21-20.06.38:867][ 69]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky as actor: Ultra_Dynamic_Sky_C /Temp/Untitled_1.Untitled:PersistentLevel.Ultra_Dynamic_Sky_C_2
+[2024.12.21-20.06.42:694][283]LogStreaming: Display: FlushAsyncLoading(403): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.21-20.06.44:447][283]LogStaticMesh: Display: Building static mesh Rainbow (Required Memory Estimate: 0.527242 MB)...
+[2024.12.21-20.06.44:453][283]LogStaticMesh: Built static mesh [0.01s] /Game/UltraDynamicSky/Meshes/Rainbow.Rainbow
+[2024.12.21-20.06.44:478][283]LogStaticMesh: Display: Building static mesh Brush_Square (Required Memory Estimate: 0.027918 MB)...
+[2024.12.21-20.06.44:478][283]LogStaticMesh: Display: Building static mesh Brush_Cube (Required Memory Estimate: 0.059481 MB)...
+[2024.12.21-20.06.44:480][283]LogStaticMesh: Built static mesh [0.00s] /Game/UltraDynamicSky/Meshes/Brush_Square.Brush_Square
+[2024.12.21-20.06.44:480][283]LogStaticMesh: Built static mesh [0.00s] /Game/UltraDynamicSky/Meshes/Brush_Cube.Brush_Cube
+[2024.12.21-20.06.44:497][283]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/Lightning_Bolt.Lightning_Bolt (TFO_AutoDXT, 128x32 x1x1x1) (Required Memory Estimate: 1.645795 MB), EncodeSpeed: Fast
+[2024.12.21-20.06.44:505][283]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/Lightning_Branches.Lightning_Branches (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Fast
+[2024.12.21-20.06.44:511][283]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/Lightning_Flare_Sheet.Lightning_Flare_Sheet (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 85.541647 MB), EncodeSpeed: Fast
+[2024.12.21-20.06.44:653][283]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather_C
+[2024.12.21-20.06.44:653][283]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather_C
+[2024.12.21-20.06.44:663][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave LightRain_1...
+[2024.12.21-20.06.44:664][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave LightRain_2...
+[2024.12.21-20.06.44:665][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave LightRain_3...
+[2024.12.21-20.06.44:667][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave LightRain_4...
+[2024.12.21-20.06.44:668][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave MediumRain_1...
+[2024.12.21-20.06.44:669][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave MediumRain_2...
+[2024.12.21-20.06.44:671][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave MediumRain_3...
+[2024.12.21-20.06.44:673][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave MediumRain_4...
+[2024.12.21-20.06.44:686][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave DistantThunder_1...
+[2024.12.21-20.06.44:688][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave DistantThunder_10...
+[2024.12.21-20.06.44:690][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave DistantThunder_11...
+[2024.12.21-20.06.44:692][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave DistantThunder_2...
+[2024.12.21-20.06.44:694][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave DistantThunder_3...
+[2024.12.21-20.06.44:698][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave DistantThunder_4...
+[2024.12.21-20.06.44:705][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave DistantThunder_5...
+[2024.12.21-20.06.44:707][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave DistantThunder_6...
+[2024.12.21-20.06.44:711][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave DistantThunder_7...
+[2024.12.21-20.06.44:719][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave DistantThunder_8...
+[2024.12.21-20.06.44:728][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave DistantThunder_9...
+[2024.12.21-20.06.44:740][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave BrownianNoise_2...
+[2024.12.21-20.06.44:741][283]LogAudioDerivedData: Display: LightRain_2 compressed to 20.77% (from 1,378KB to 286KB) with BINKA at Quality 50 with Quality Modifier 1.00
+[2024.12.21-20.06.44:742][283]LogAudioDerivedData: Display: DistantThunder_2 compressed to 5.71% (from 1,033KB to 58KB) with BINKA at Quality 30 with Quality Modifier 1.00
+[2024.12.21-20.06.44:742][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave BrownianNoise_3...
+[2024.12.21-20.06.44:743][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_2.DistantThunder_2: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=60387 bytes, ChunkN=0)
+[2024.12.21-20.06.44:743][283]LogAudioDerivedData: Display: LightRain_3 compressed to 20.94% (from 1,378KB to 288KB) with BINKA at Quality 50 with Quality Modifier 1.00
+[2024.12.21-20.06.44:743][283]LogAudioDerivedData: Display: MediumRain_1 compressed to 23.19% (from 1,378KB to 319KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2024.12.21-20.06.44:743][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave BrownianNoise_1...
+[2024.12.21-20.06.44:745][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_3.LightRain_3: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=262029 bytes, ChunkN=33553)
+[2024.12.21-20.06.44:745][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_1.MediumRain_1: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261445 bytes, ChunkN=65853)
+[2024.12.21-20.06.44:748][283]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave BrownianNoise_4...
+[2024.12.21-20.06.44:751][283]LogAudioDerivedData: Display: LightRain_1 compressed to 20.57% (from 1,378KB to 283KB) with BINKA at Quality 50 with Quality Modifier 1.00
+[2024.12.21-20.06.44:751][283]LogAudioDerivedData: Display: MediumRain_2 compressed to 23.21% (from 1,378KB to 319KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2024.12.21-20.06.44:751][283]LogAudioDerivedData: Display: MediumRain_4 compressed to 23.09% (from 1,378KB to 318KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2024.12.21-20.06.44:752][283]LogAudioDerivedData: Display: MediumRain_3 compressed to 23.14% (from 1,378KB to 318KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2024.12.21-20.06.44:752][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_1.LightRain_1: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=262011 bytes, ChunkN=28291)
+[2024.12.21-20.06.44:754][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_2.MediumRain_2: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261573 bytes, ChunkN=66021)
+[2024.12.21-20.06.44:754][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_3.MediumRain_3: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261233 bytes, ChunkN=65325)
+[2024.12.21-20.06.44:754][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_4.MediumRain_4: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261931 bytes, ChunkN=63935)
+[2024.12.21-20.06.44:760][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_2.LightRain_2: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261519 bytes, ChunkN=31563)
+[2024.12.21-20.06.44:763][283]LogAudioDerivedData: Display: DistantThunder_10 compressed to 6.15% (from 1,636KB to 100KB) with BINKA at Quality 30 with Quality Modifier 1.00
+[2024.12.21-20.06.44:764][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_10.DistantThunder_10: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=103025 bytes, ChunkN=0)
+[2024.12.21-20.06.44:769][283]LogAudioDerivedData: Display: BrownianNoise_2 compressed to 13.03% (from 516KB to 67KB) with BINKA at Quality 25 with Quality Modifier 1.00
+[2024.12.21-20.06.44:770][283]LogAudioDerivedData: Display: DistantThunder_3 compressed to 5.48% (from 1,722KB to 94KB) with BINKA at Quality 30 with Quality Modifier 1.00
+[2024.12.21-20.06.44:770][283]LogAudioDerivedData: Display: BrownianNoise_1 compressed to 13.15% (from 516KB to 67KB) with BINKA at Quality 25 with Quality Modifier 1.00
+[2024.12.21-20.06.44:771][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_3.DistantThunder_3: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=96703 bytes, ChunkN=0)
+[2024.12.21-20.06.44:772][283]LogAudioDerivedData: Display: BrownianNoise_3 compressed to 13.21% (from 516KB to 68KB) with BINKA at Quality 25 with Quality Modifier 1.00
+[2024.12.21-20.06.44:775][283]LogAudioDerivedData: Display: BrownianNoise_4 compressed to 13.19% (from 516KB to 68KB) with BINKA at Quality 25 with Quality Modifier 1.00
+[2024.12.21-20.06.44:780][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_1.BrownianNoise_1: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=69595 bytes, ChunkN=0)
+[2024.12.21-20.06.44:780][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_2.BrownianNoise_2: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=68959 bytes, ChunkN=0)
+[2024.12.21-20.06.44:781][283]LogAudioDerivedData: Display: DistantThunder_11 compressed to 5.25% (from 1,894KB to 99KB) with BINKA at Quality 30 with Quality Modifier 1.00
+[2024.12.21-20.06.44:782][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_11.DistantThunder_11: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=101853 bytes, ChunkN=0)
+[2024.12.21-20.06.44:783][283]LogAudioDerivedData: Display: DistantThunder_1 compressed to 6.59% (from 1,679KB to 110KB) with BINKA at Quality 30 with Quality Modifier 1.00
+[2024.12.21-20.06.44:784][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_1.DistantThunder_1: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=113339 bytes, ChunkN=0)
+[2024.12.21-20.06.44:785][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_4.BrownianNoise_4: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=69819 bytes, ChunkN=0)
+[2024.12.21-20.06.44:786][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_3.BrownianNoise_3: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=69911 bytes, ChunkN=0)
+[2024.12.21-20.06.44:787][283]LogAudioDerivedData: Display: LightRain_4 compressed to 20.78% (from 1,378KB to 286KB) with BINKA at Quality 50 with Quality Modifier 1.00
+[2024.12.21-20.06.44:788][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_4.LightRain_4: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261107 bytes, ChunkN=32163)
+[2024.12.21-20.06.44:808][283]LogAudioDerivedData: Display: DistantThunder_4 compressed to 4.94% (from 2,325KB to 114KB) with BINKA at Quality 30 with Quality Modifier 1.00
+[2024.12.21-20.06.44:808][283]LogAudioDerivedData: Display: DistantThunder_6 compressed to 5.69% (from 2,411KB to 137KB) with BINKA at Quality 30 with Quality Modifier 1.00
+[2024.12.21-20.06.44:808][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_4.DistantThunder_4: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=117729 bytes, ChunkN=0)
+[2024.12.21-20.06.44:809][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_6.DistantThunder_6: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=140435 bytes, ChunkN=0)
+[2024.12.21-20.06.44:811][283]LogAudioDerivedData: Display: DistantThunder_8 compressed to 5.99% (from 2,153KB to 128KB) with BINKA at Quality 30 with Quality Modifier 1.00
+[2024.12.21-20.06.44:812][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_8.DistantThunder_8: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=131963 bytes, ChunkN=0)
+[2024.12.21-20.06.44:815][283]LogAudioDerivedData: Display: DistantThunder_9 compressed to 6.96% (from 2,067KB to 143KB) with BINKA at Quality 30 with Quality Modifier 1.00
+[2024.12.21-20.06.44:816][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_9.DistantThunder_9: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=147339 bytes, ChunkN=0)
+[2024.12.21-20.06.44:828][283]LogAudioDerivedData: Display: DistantThunder_5 compressed to 5.10% (from 2,928KB to 149KB) with BINKA at Quality 30 with Quality Modifier 1.00
+[2024.12.21-20.06.44:829][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_5.DistantThunder_5: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=152881 bytes, ChunkN=0)
+[2024.12.21-20.06.44:836][283]LogAudioDerivedData: Display: DistantThunder_7 compressed to 6.73% (from 2,670KB to 179KB) with BINKA at Quality 30 with Quality Modifier 1.00
+[2024.12.21-20.06.44:836][283]LogAudio: Display: Chunk stats for (SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_7.DistantThunder_7: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=183917 bytes, ChunkN=0)
+[2024.12.21-20.06.45:009][283]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/RainSnow_Sheet.RainSnow_Sheet (BGRA8, 64x128 x1x1x1) (Required Memory Estimate: 1.281235 MB), EncodeSpeed: Fast
+[2024.12.21-20.06.45:767][283]LogNiagaraCompiler: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle - 
+[2024.12.21-20.06.45:771][283]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather as actor: Ultra_Dynamic_Weather_C /Temp/Untitled_1.Untitled:PersistentLevel.Ultra_Dynamic_Weather_C_0
+[2024.12.21-20.06.45:798][283]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather as actor: Ultra_Dynamic_Weather_C /Temp/Untitled_1.Untitled:PersistentLevel.Ultra_Dynamic_Weather_C_0
+[2024.12.21-20.06.45:843][283]LogNiagaraCompiler: Function call "InitializeParticle" is deprecated. Reason:
+As of 5.3, This version is now fully deprecated and a conversion script will run to attempt to map the existing inputs to the new module. Most configurations should successfully transfer. Double check behavior after the new version is added.
+
+Check the output log for the results of each input conversion..
+Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle instead. - Node: Initialize Particle - 
+[2024.12.21-20.06.45:911][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.12.21-20.06.45:999][283]LogEditorActor: Deleted 0 Actors (0.147 secs)
+[2024.12.21-20.06.46:594][298]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather_C
+[2024.12.21-20.06.46:594][298]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather_C
+[2024.12.21-20.06.46:608][298]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather as actor: Ultra_Dynamic_Weather_C /Temp/Untitled_1.Untitled:PersistentLevel.Ultra_Dynamic_Weather_C_1
+[2024.12.21-20.06.46:625][298]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather as actor: Ultra_Dynamic_Weather_C /Temp/Untitled_1.Untitled:PersistentLevel.Ultra_Dynamic_Weather_C_1
+[2024.12.21-20.06.47:468][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.21-20.06.47:473][343]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2024.12.21-20.06.47:487][343]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather_C
+[2024.12.21-20.06.47:487][343]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather_C
+[2024.12.21-20.06.47:509][343]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather as actor: Ultra_Dynamic_Weather_C /Temp/Untitled_1.Untitled:PersistentLevel.Ultra_Dynamic_Weather_C_2
+[2024.12.21-20.06.47:525][343]LogActorFactory: Actor Factory spawned Blueprint /Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather as actor: Ultra_Dynamic_Weather_C /Temp/Untitled_1.Untitled:PersistentLevel.Ultra_Dynamic_Weather_C_2
+[2024.12.21-20.07.07:872][655]LogSlate: Window 'Save Level As' being destroyed
+[2024.12.21-20.07.07:951][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.21-20.07.07:978][655]LogSavePackage: Moving output files for package: /Game/Environment/Maps/Sandbox_01
+[2024.12.21-20.07.07:978][655]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Sandbox_01065A49884F1EB9146A13B190BCDE93BD.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Environment/Maps/Sandbox_01.umap'
+[2024.12.21-20.07.07:997][655]LogFileHelpers: Saving map 'Sandbox_01' took 0.118
+[2024.12.21-20.07.07:997][655]Cmd: MAP LOAD FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Environment/Maps/Sandbox_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.21-20.07.08:041][655]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.21-20.07.08:041][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-20.07.08:060][655]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.21-20.07.08:061][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.21-20.07.08:063][655]LogStreaming: Display: FlushAsyncLoading(417): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.21-20.07.08:125][655]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sandbox_01'.
+[2024.12.21-20.07.08:125][655]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.21-20.07.08:174][655]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.21-20.07.08:199][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.21-20.07.08:205][655]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.21-20.07.08:205][655]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.041ms to complete.
+[2024.12.21-20.07.08:227][655]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-20.07.08:227][655]LogContentValidation: Enabled validators:
+[2024.12.21-20.07.08:227][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-20.07.08:227][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-20.07.08:227][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-20.07.08:227][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-20.07.08:227][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-20.07.08:227][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-20.07.08:227][655]AssetCheck: /Game/Environment/Maps/Sandbox_01 Validating asset
+[2024.12.21-20.07.08:250][655]LogNiagara: Compiling System NiagaraSystem /Game/UltraDynamicSky/Particles/VolumetricCloud_LightRays.VolumetricCloud_LightRays took 30.804592 sec (time since issued), 30.621597 sec (combined shader worker time).
+[2024.12.21-20.07.08:523][662]LogNiagara: Compiling System NiagaraSystem /Game/UltraDynamicSky/Particles/Obscured_Lightning.Obscured_Lightning took 23.010860 sec (time since issued), 22.520939 sec (combined shader worker time).
+[2024.12.21-20.07.10:177][800]LogNiagaraCompiler: Cannot set variable System.Camera Position in emitter scripts. - Node: Map Set Pin: System.Camera Position - 
+[2024.12.21-20.07.10:178][800]LogNiagaraCompiler: Cannot set variable System.Camera Velocity in emitter scripts. - Node: Map Set Pin: System.Camera Velocity - 
+[2024.12.21-20.07.10:178][800]LogNiagaraCompiler: Cannot set variable System.Camera Angular Velocity in emitter scripts. - Node: Map Set Pin: System.Camera Angular Velocity - 
+[2024.12.21-20.07.10:178][800]LogNiagaraCompiler: Cannot set variable System.Spawn Origin in emitter scripts. - Node: Map Set Pin: System.Spawn Origin - 
+[2024.12.21-20.07.10:215][801]LogNiagara: Compiling System NiagaraSystem /Game/UltraDynamicSky/Particles/Rain.Rain took 24.715233 sec (time since issued), 24.253891 sec (combined shader worker time).
