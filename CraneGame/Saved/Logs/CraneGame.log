@@ -1735,3 +1735,108 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.12.21-20.07.10:178][800]LogNiagaraCompiler: Cannot set variable System.Camera Angular Velocity in emitter scripts. - Node: Map Set Pin: System.Camera Angular Velocity - 
 [2024.12.21-20.07.10:178][800]LogNiagaraCompiler: Cannot set variable System.Spawn Origin in emitter scripts. - Node: Map Set Pin: System.Spawn Origin - 
 [2024.12.21-20.07.10:215][801]LogNiagara: Compiling System NiagaraSystem /Game/UltraDynamicSky/Particles/Rain.Rain took 24.715233 sec (time since issued), 24.253891 sec (combined shader worker time).
+[2024.12.21-20.08.21:708][147]LogPSOHitching: Encountered 100 PSO creation hitches so far (58 graphics, 42 compute). 0 of them were precached.
+[2024.12.21-20.08.27:105][735]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 675.017273
+[2024.12.21-20.08.27:180][744]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.21-20.08.27:180][744]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 675.084778, Update Interval: 337.028717
+[2024.12.21-20.08.30:599][140]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2024.12.21-20.08.35:190][605]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.12.21-20.08.35:191][605]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.12.21-20.08.35:191][605]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.StaticMeshActor_0
+[2024.12.21-20.08.35:776][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.12.21-20.08.35:781][667]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2024.12.21-20.08.35:789][667]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.12.21-20.08.35:789][667]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.12.21-20.08.35:790][667]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.StaticMeshActor_1
+[2024.12.21-20.08.35:930][669]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: ================================================
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Total job queries 501, among them cache hits 24 (4.79%), DDC hits 133 (26.55%), Duplicates 17 (3.39%)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Tracking 460 distinct input hashes that result in 426 distinct outputs (92.61%)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: RAM used: 300.96 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Shaders Compiled: 327
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Jobs assigned 327, completed 327 (100%)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Average time worker was idle: 29.03 s
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Time job spent in pending queue: average 4.01 s, longest 19.77 s
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Job execution time: average 6.79 s, max 18.62 s
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Job life time (pending + execution): average 10.80 s, max 22.03
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Shader code size: average 20.577 KiB, min 1.656 KiB, max 51.371 KiB
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.47 s
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.32%
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Jobs were issued in 131 batches (only local compilation was used), average 2.50 jobs/batch
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Average processing rate: 11.10 jobs/sec
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Total thread time: 364.11 s
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Total thread preprocess time: 12.675 s
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Percentage time preprocessing: 3.48%
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Effective parallelization: 12.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display:                               FLightFunctionRayTracingShader (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled  136 times, average 1.90 sec, max 2.81 sec, min 1.04 sec)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    2 times, average 1.89 sec, max 2.16 sec, min 1.62 sec)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    2 times, average 1.79 sec, max 2.06 sec, min 1.51 sec)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.77 sec, max 2.13 sec, min 1.46 sec)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 71.05% of total time (compiled  136 times, average 1.90 sec, max 2.81 sec, min 1.04 sec)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display:                                 FTranslucentLightingInjectPS - 2.87% of total time (compiled   32 times, average 0.33 sec, max 0.61 sec, min 0.11 sec)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 1.98% of total time (compiled   11 times, average 0.65 sec, max 1.00 sec, min 0.36 sec)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 1.93% of total time (compiled    6 times, average 1.17 sec, max 1.41 sec, min 0.84 sec)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: FLumenDirectLightingShadowMaskFromLightAttenuationWithLightFunctionCS - 1.72% of total time (compiled   20 times, average 0.31 sec, max 0.40 sec, min 0.25 sec)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: === Material stats ===
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Materials Translated:    164
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Material Translation Only: 0.09 s (67%)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: Material Cache Hits: 28 (17%)
+[2024.12.21-20.09.16:661][254]LogShaderCompilers: Display: ================================================
+[2024.12.21-20.10.08:208][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-20.10.08:266][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.12.21-20.10.08:292][972]LogSavePackage: Moving output files for package: /Game/Environment/Maps/Sandbox_01
+[2024.12.21-20.10.08:293][972]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Sandbox_0183F7462743F5760836DD3CA22B1D0135.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Environment/Maps/Sandbox_01.umap'
+[2024.12.21-20.10.08:300][972]LogFileHelpers: Saving map 'Sandbox_01' took 0.065
+[2024.12.21-20.10.08:307][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.072 ms
+[2024.12.21-20.10.08:336][972]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.21-20.10.08:336][972]LogContentValidation: Enabled validators:
+[2024.12.21-20.10.08:336][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-20.10.08:336][972]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-20.10.08:336][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-20.10.08:336][972]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-20.10.08:336][972]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-20.10.08:336][972]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-20.10.08:337][972]AssetCheck: /Game/Environment/Maps/Sandbox_01 Validating asset
+[2024.12.21-20.10.19:788][189]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.21-20.10.19:796][189]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.21-20.10.19:808][190]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.21-20.11.37:560][844]LogContentBrowser: Attempting asset rename: NewFolder -> A_Character
+[2024.12.21-20.11.37:560][844]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.21-20.11.46:043][795]LogContentBrowser: Attempting asset rename: Environment -> A_Environment
+[2024.12.21-20.11.51:497][795]LogSlate: Window 'Message' being destroyed
+[2024.12.21-20.11.51:502][795]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+Sandbox_01
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.12.21-20.11.51:518][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-20.11.51:550][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.21-20.11.51:575][795]LogSavePackage: Moving output files for package: /Game/A_Environment/Maps/Sandbox_01
+[2024.12.21-20.11.51:575][795]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Sandbox_01CCAD4B8646EEA97ED2D6DF9BB6815AE3.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Environment/Maps/Sandbox_01.umap'
+[2024.12.21-20.11.51:581][795]LogFileHelpers: Saving map 'Sandbox_01' took 0.064
+[2024.12.21-20.11.51:582][795]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Environment/Maps/Sandbox_01] ([1] browsable assets)...
+[2024.12.21-20.11.51:582][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Maps/Sandbox_01]
+[2024.12.21-20.11.51:582][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Maps/Sandbox_01" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Environment/Maps/Sandbox_01.umap" SILENT=true
+[2024.12.21-20.11.51:582][795]LogSavePackage: Moving output files for package: /Game/Environment/Maps/Sandbox_01
+[2024.12.21-20.11.51:583][795]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Sandbox_014A43CC5F40164A2312C594866FD004C3.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/Environment/Maps/Sandbox_01.umap'
+[2024.12.21-20.11.51:583][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.958 ms (total: 165.030 ms)
+[2024.12.21-20.11.51:643][795]LogContentValidation: Display: Starting to validate 2 assets
+[2024.12.21-20.11.51:643][795]LogContentValidation: Enabled validators:
+[2024.12.21-20.11.51:643][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-20.11.51:643][795]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-20.11.51:643][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-20.11.51:643][795]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-20.11.51:643][795]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-20.11.51:643][795]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-20.11.51:643][795]AssetCheck: /Game/A_Environment/Maps/Sandbox_01 Validating asset
+[2024.12.21-20.11.51:643][795]AssetCheck: /Game/Environment/Maps/Sandbox_01 Validating asset
+[2024.12.21-20.12.05:938][262]LogSlate: Window 'Color Picker' being destroyed
