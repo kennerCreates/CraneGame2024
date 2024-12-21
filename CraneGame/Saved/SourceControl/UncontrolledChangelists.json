@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/Environment/Maps/Sandbox_01.umap",
-				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Environment/Maps/Sandbox_01.umap"
+				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Environment/Maps/Sandbox_01.umap",
+				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/BP_Crane.uasset"
 			]
 		}
 	]
