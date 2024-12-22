@@ -1377,3 +1377,13 @@ LogConfig: Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
 [2024.12.22-15.58.27:079][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 7.174082
 [2024.12.22-15.58.27:079][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
 [2024.12.22-15.58.27:080][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7.244511
+[2024.12.22-15.58.28:365][  6]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2024.12.22-15.58.29:033][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 8.864473
+[2024.12.22-15.58.29:034][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 758315952
+[2024.12.22-15.58.29:034][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8.864473, Update Interval: 331.857666
+[2024.12.22-15.58.30:031][ 11]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 967...2ac Access[Expires: 2024.12.22-17.58.29 Remaining: 7200.43] Refresh[Expires: 2025-06-19T19:48:48.346Z Remaining: 15479419.35] State: Valid
+[2024.12.22-15.58.30:365][ 12]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2024.12.22-15.58.31:366][ 15]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2024.12.22-15.58.31:366][ 15]LogFab: Display: User logged in
+[2024.12.22-15.58.31:366][ 15]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2024.12.22-15.58.32:032][ 17]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-4KcU0cXxDUy6HoXrSpLwDQ-NAzDRp8WYUuJUwlmWd9pEg]
