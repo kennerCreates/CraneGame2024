@@ -20,6 +20,8 @@
 				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane.uasset",
 				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset",
 				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_Skeleton.uasset",
+				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_TorqueCurve.uasset",
+				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Gameplay/Input/Actions/IA_Brake.uasset",
 				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/BP_Crane_Char.uasset",
 				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_ChaosWheel.uasset",
 				"C:/code/2024Q4/CraneGame2024/CraneGame/Content/Imports/debris-drivetrain_Skeleton.uasset",
