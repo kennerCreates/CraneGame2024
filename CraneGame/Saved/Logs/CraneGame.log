@@ -1387,3 +1387,213 @@ LogConfig: Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
 [2024.12.22-15.58.31:366][ 15]LogFab: Display: User logged in
 [2024.12.22-15.58.31:366][ 15]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2024.12.22-15.58.32:032][ 17]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-4KcU0cXxDUy6HoXrSpLwDQ-NAzDRp8WYUuJUwlmWd9pEg]
+[2024.12.22-15.59.03:810][156]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane
+[2024.12.22-15.59.03:811][156]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2024.12.22-15.59.03:851][156]LogStreaming: Display: FlushAsyncLoading(354): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.22-15.59.04:806][156]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.12.22-15.59.04:955][156]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2024.12.22-15.59.04:966][157]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2024.12.22-15.59.05:040][158]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2024.12.22-15.59.05:091][159]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2024.12.22-15.59.05:136][161]LogChaosDD: Creating Chaos Debug Draw Scene for world World_5
+[2024.12.22-16.00.02:017][834]LogSlate: Window 'Create New Blueprint' being destroyed
+[2024.12.22-16.00.02:039][834]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_Character/Crane/CraneWheel_Front.CraneWheel_Front
+[2024.12.22-16.00.02:040][834]LogChaosDD: Creating Chaos Debug Draw Scene for world World_6
+[2024.12.22-16.00.02:421][837]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2024.12.22-16.00.02:422][837]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2024.12.22-16.00.06:187][ 15]LogSlate: Window 'CraneWheel_Front' being destroyed
+[2024.12.22-16.00.15:191][809]LogDerivedDataCache: C:/Users/laure/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.22-16.00.20:806][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.22-16.00.36:688][562]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.22-16.00.36:738][562]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 47.63 ms. Compile time 41.29 ms, link time 6.30 ms.
+[2024.12.22-16.00.37:074][562]LogD3D12RHI: Creating RTPSO with 13 shaders (0 cached, 13 new) took 383.68 ms. Compile time 373.17 ms, link time 10.47 ms.
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: ================================================
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Total job queries 276, among them cache hits 43 (15.58%), DDC hits 216 (78.26%), Duplicates 6 (2.17%)
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Tracking 227 distinct input hashes that result in 216 distinct outputs (95.15%)
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: RAM used: 177.78 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Shaders Compiled: 11
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.05 s
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Job execution time: average 1.22 s, max 1.45 s
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Job life time (pending + execution): average 1.26 s, max 1.48
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Shader code size: average 7.02 KiB, min 2.297 KiB, max 16.688 KiB
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.49 s
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Average processing rate: 7.36 jobs/sec
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Total thread time: 4.856 s
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Total thread preprocess time: 6.285 s
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Percentage time preprocessing: 129.43%
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Effective parallelization: 3.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.42 sec, max 0.50 sec, min 0.33 sec)
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.41 sec, max 0.46 sec, min 0.35 sec)
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.37 sec, max 0.42 sec, min 0.32 sec)
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    2 times, average 0.36 sec, max 0.43 sec, min 0.28 sec)
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.10% of total time (compiled    2 times, average 0.42 sec, max 0.50 sec, min 0.33 sec)
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display:                                                  FHitProxyVS - 16.68% of total time (compiled    2 times, average 0.41 sec, max 0.46 sec, min 0.35 sec)
+[2024.12.22-16.01.26:127][441]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.11% of total time (compiled    2 times, average 0.37 sec, max 0.42 sec, min 0.32 sec)
+[2024.12.22-16.01.26:128][441]LogShaderCompilers: Display:                                                  FVelocityVS - 14.65% of total time (compiled    2 times, average 0.36 sec, max 0.43 sec, min 0.28 sec)
+[2024.12.22-16.01.26:128][441]LogShaderCompilers: Display:                                                  FVelocityPS - 12.83% of total time (compiled    2 times, average 0.31 sec, max 0.36 sec, min 0.26 sec)
+[2024.12.22-16.01.26:128][441]LogShaderCompilers: Display: === Material stats ===
+[2024.12.22-16.01.26:128][441]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.22-16.01.26:128][441]LogShaderCompilers: Display: Materials Translated:    160
+[2024.12.22-16.01.26:128][441]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2024.12.22-16.01.26:128][441]LogShaderCompilers: Display: Material Translation Only: 0.07 s (70%)
+[2024.12.22-16.01.26:128][441]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.12.22-16.01.26:128][441]LogShaderCompilers: Display: Material Cache Hits: 40 (25%)
+[2024.12.22-16.01.26:128][441]LogShaderCompilers: Display: ================================================
+[2024.12.22-16.03.47:225][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.12.22-16.03.47:805][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-16.03.47:829][972]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/CraneWheel_Front] ([2] browsable assets)...
+[2024.12.22-16.03.47:830][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/CraneWheel_Front]
+[2024.12.22-16.03.47:830][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/CraneWheel_Front" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/CraneWheel_Front.uasset" SILENT=true
+[2024.12.22-16.03.47:832][972]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/CraneWheel_Front
+[2024.12.22-16.03.47:832][972]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/CraneWheel_Front9A0E077A46AC45D23FC623AFF7F9F7BD.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/CraneWheel_Front.uasset'
+[2024.12.22-16.03.47:844][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.262 ms
+[2024.12.22-16.03.47:869][972]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-16.03.47:869][972]LogContentValidation: Enabled validators:
+[2024.12.22-16.03.47:869][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.22-16.03.47:869][972]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-16.03.47:869][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-16.03.47:869][972]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.22-16.03.47:869][972]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-16.03.47:869][972]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.22-16.03.47:869][972]AssetCheck: /Game/A_Character/Crane/CraneWheel_Front Validating asset
+[2024.12.22-16.04.00:161][366]LogContentBrowser: Deferred new asset file creation: CraneWheel_Front1
+[2024.12.22-16.04.00:170][366]LogContentBrowser: Creating deferred item: CraneWheel_Front1
+[2024.12.22-16.04.00:194][367]LogContentBrowser: Renaming the item being created (Deferred Item: CraneWheel_Front1).
+[2024.12.22-16.04.00:571][412]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 340.736725
+[2024.12.22-16.04.00:671][424]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-16.04.00:671][424]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 340.828217, Update Interval: 314.650726
+[2024.12.22-16.04.04:843][925]LogContentBrowser: Attempting asset rename: CraneWheel_Front1 -> CraneWheel_Rear
+[2024.12.22-16.04.04:871][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.22-16.04.04:880][925]LogContentBrowser: End creating deferred item CraneWheel_Front1
+[2024.12.22-16.04.06:151][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.22-16.04.06:156][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-16.04.06:188][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.22-16.04.06:228][ 64]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane]
+[2024.12.22-16.04.06:228][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.22-16.04.06:228][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.22-16.04.06:243][ 64]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.22-16.04.06:243][ 64]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneBEF1B471498BE8E2D713BF95860A6165.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.22-16.04.06:245][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/CraneWheel_Rear] ([2] browsable assets)...
+[2024.12.22-16.04.06:245][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/CraneWheel_Rear]
+[2024.12.22-16.04.06:245][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/CraneWheel_Rear" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/CraneWheel_Rear.uasset" SILENT=true
+[2024.12.22-16.04.06:246][ 64]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/CraneWheel_Rear
+[2024.12.22-16.04.06:246][ 64]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/CraneWheel_RearCC326B7C40F6D439D79FD399267F625D.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/CraneWheel_Rear.uasset'
+[2024.12.22-16.04.06:257][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.604 ms (total: 140.866 ms)
+[2024.12.22-16.04.06:283][ 64]LogContentValidation: Display: Starting to validate 2 assets
+[2024.12.22-16.04.06:283][ 64]LogContentValidation: Enabled validators:
+[2024.12.22-16.04.06:283][ 64]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.22-16.04.06:283][ 64]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-16.04.06:283][ 64]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-16.04.06:283][ 64]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.22-16.04.06:283][ 64]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-16.04.06:283][ 64]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.22-16.04.06:284][ 64]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.22-16.04.06:284][ 64]AssetCheck: /Game/A_Character/Crane/CraneWheel_Rear Validating asset
+[2024.12.22-16.04.06:752][115]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_Character/Crane/CraneWheel_Rear.CraneWheel_Rear
+[2024.12.22-16.04.06:752][115]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2024.12.22-16.04.27:329][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.22-16.04.28:352][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-16.04.28:382][355]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/CraneWheel_Rear] ([2] browsable assets)...
+[2024.12.22-16.04.28:382][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/CraneWheel_Rear]
+[2024.12.22-16.04.28:382][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/CraneWheel_Rear" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/CraneWheel_Rear.uasset" SILENT=true
+[2024.12.22-16.04.28:384][355]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/CraneWheel_Rear
+[2024.12.22-16.04.28:385][355]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/CraneWheel_RearFDDA26D6445FFC706896E393443C8594.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/CraneWheel_Rear.uasset'
+[2024.12.22-16.04.28:392][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.972 ms (total: 180.838 ms)
+[2024.12.22-16.04.28:418][355]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-16.04.28:418][355]LogContentValidation: Enabled validators:
+[2024.12.22-16.04.28:418][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.22-16.04.28:418][355]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-16.04.28:418][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-16.04.28:418][355]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.22-16.04.28:418][355]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-16.04.28:418][355]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.22-16.04.28:418][355]AssetCheck: /Game/A_Character/Crane/CraneWheel_Rear Validating asset
+[2024.12.22-16.04.46:208][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.22-16.04.47:019][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-16.04.47:041][466]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.22-16.04.47:079][466]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane]
+[2024.12.22-16.04.47:079][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.22-16.04.47:079][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.22-16.04.47:085][466]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.22-16.04.47:085][466]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_Crane40D53C224B695C61416176B9BEEACA31.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.22-16.04.47:092][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.746 ms (total: 254.585 ms)
+[2024.12.22-16.04.47:118][466]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-16.04.47:118][466]LogContentValidation: Enabled validators:
+[2024.12.22-16.04.47:118][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.22-16.04.47:118][466]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-16.04.47:118][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-16.04.47:118][466]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.22-16.04.47:118][466]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-16.04.47:118][466]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.22-16.04.47:118][466]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.22-16.04.59:995][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-16.04.59:995][819]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.22-16.05.00:034][819]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane]
+[2024.12.22-16.05.00:034][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.22-16.05.00:034][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.22-16.05.00:040][819]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.22-16.05.00:041][819]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneE81D507E493BFFAAF1E6EC94D705E43D.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.22-16.05.00:042][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/Crane] ([1] browsable assets)...
+[2024.12.22-16.05.00:042][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/Crane]
+[2024.12.22-16.05.00:042][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane.uasset" SILENT=true
+[2024.12.22-16.05.00:045][819]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/Crane
+[2024.12.22-16.05.00:045][819]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Crane5D82F01B4C47974AAA79969BC47DFB34.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane.uasset'
+[2024.12.22-16.05.00:046][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/Crane_PhysicsAsset] ([1] browsable assets)...
+[2024.12.22-16.05.00:046][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/Crane_PhysicsAsset]
+[2024.12.22-16.05.00:046][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/Crane_PhysicsAsset" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset" SILENT=true
+[2024.12.22-16.05.00:048][819]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/Crane_PhysicsAsset
+[2024.12.22-16.05.00:048][819]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Crane_PhysicsAsset4DEC94B44A3B63317A778F84DDA80E52.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset'
+[2024.12.22-16.05.00:048][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/Crane_Skeleton] ([1] browsable assets)...
+[2024.12.22-16.05.00:048][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/Crane_Skeleton]
+[2024.12.22-16.05.00:048][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/Crane_Skeleton" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_Skeleton.uasset" SILENT=true
+[2024.12.22-16.05.00:049][819]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/Crane_Skeleton
+[2024.12.22-16.05.00:049][819]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Crane_Skeleton930B11DB415FAC0516F0D78C12E18F12.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_Skeleton.uasset'
+[2024.12.22-16.05.00:050][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.627 ms (total: 309.212 ms)
+[2024.12.22-16.05.00:178][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.22-16.05.00:206][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.22-16.05.00:232][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.22-16.05.00:254][819]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.22-16.05.00:254][819]LogContentValidation: Display: Starting to validate 4 assets
+[2024.12.22-16.05.00:254][819]LogContentValidation: Enabled validators:
+[2024.12.22-16.05.00:254][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.22-16.05.00:254][819]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-16.05.00:254][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-16.05.00:254][819]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.22-16.05.00:254][819]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-16.05.00:254][819]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.22-16.05.00:254][819]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.22-16.05.00:254][819]AssetCheck: /Game/A_Character/Crane/Crane Validating asset
+[2024.12.22-16.05.00:254][819]AssetCheck: /Game/A_Character/Crane/Crane_PhysicsAsset Validating asset
+[2024.12.22-16.05.00:254][819]AssetCheck: /Game/A_Character/Crane/Crane_Skeleton Validating asset
+[2024.12.22-16.05.00:803][878]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2024.12.22-16.05.00:866][880]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2024.12.22-16.05.07:045][ 75]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/A_Character/Crane/Crane.Crane
+[2024.12.22-16.05.07:071][ 75]LogChaosDD: Creating Chaos Debug Draw Scene for world World_11
+[2024.12.22-16.05.07:080][ 75]LogStreaming: Display: FlushAsyncLoading(502): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.22-16.05.07:104][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.22-16.05.36:511][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.22-16.05.37:230][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-16.05.37:258][214]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.22-16.05.37:297][214]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane]
+[2024.12.22-16.05.37:297][214]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.22-16.05.37:297][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.22-16.05.37:302][214]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.22-16.05.37:303][214]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_Crane3F084F4A49ABC11FFB1EB1B0F8A56247.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.22-16.05.37:312][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.822 ms (total: 392.034 ms)
+[2024.12.22-16.05.37:341][214]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-16.05.37:342][214]LogContentValidation: Enabled validators:
+[2024.12.22-16.05.37:342][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.22-16.05.37:342][214]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-16.05.37:342][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-16.05.37:342][214]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.22-16.05.37:342][214]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-16.05.37:342][214]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.22-16.05.37:342][214]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
