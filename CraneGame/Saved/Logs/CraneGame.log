@@ -1446,3 +1446,1584 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.23-14.24.46:658][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.23-14.24.46:658][454]AssetCheck: /Game/A_Character/Crane/ABP_Crane Validating asset
 [2024.12.23-14.24.57:246][710]LogDerivedDataCache: C:/Users/laure/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.23-14.25.44:016][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.23-14.25.44:770][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.25.44:799][502]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_Character/Crane/ABP_Crane] ([2] browsable assets)...
+[2024.12.23-14.25.44:807][502]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/A_Character/Crane/ABP_Crane.ABP_Crane]
+[2024.12.23-14.25.44:807][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/ABP_Crane]
+[2024.12.23-14.25.44:807][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/ABP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/ABP_Crane.uasset" SILENT=true
+[2024.12.23-14.25.44:812][502]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/ABP_Crane
+[2024.12.23-14.25.44:813][502]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/ABP_CraneD6143EF3405FC96500BAFC900933C79B.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/ABP_Crane.uasset'
+[2024.12.23-14.25.44:820][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.435 ms (total: 171.712 ms)
+[2024.12.23-14.25.44:848][502]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.25.44:848][502]LogContentValidation: Enabled validators:
+[2024.12.23-14.25.44:848][502]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.25.44:848][502]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.25.44:848][502]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.25.44:848][502]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.25.44:848][502]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.25.44:848][502]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.25.44:848][502]AssetCheck: /Game/A_Character/Crane/ABP_Crane Validating asset
+[2024.12.23-14.26.03:348][716]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane
+[2024.12.23-14.26.03:348][716]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2024.12.23-14.26.03:401][716]LogStreaming: Display: FlushAsyncLoading(505): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.23-14.26.03:796][717]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2024.12.23-14.26.13:229][366]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.12.23-14.26.18:248][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.23-14.26.19:171][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.26.19:196][  9]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.23-14.26.19:246][  9]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane]
+[2024.12.23-14.26.19:246][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.23-14.26.19:246][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.23-14.26.19:263][  9]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.23-14.26.19:263][  9]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneFBDCDB6C447C8CA9FD553DB99CC608BF.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.23-14.26.19:271][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.473 ms (total: 271.185 ms)
+[2024.12.23-14.26.19:302][  9]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.26.19:302][  9]LogContentValidation: Enabled validators:
+[2024.12.23-14.26.19:302][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.26.19:302][  9]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.26.19:302][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.26.19:302][  9]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.26.19:302][  9]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.26.19:302][  9]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.26.19:302][  9]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.23-14.26.24:844][151]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-14.26.24:849][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-14.26.24:855][151]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.12.23-14.26.24:855][151]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.12.23-14.26.24:856][151]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.26.24:862][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005720s)
+[2024.12.23-14.26.24:862][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.005756s)
+[2024.12.23-14.26.24:888][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.23-14.26.24:891][151]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-14.26.24:892][151]LogPlayLevel: PIE: World Init took: (0.001412s)
+[2024.12.23-14.26.24:893][151]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.12.23-14.26.24:893][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-14.26.24:893][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-14.26.24:893][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-14.26.24:893][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-14.26.24:893][151]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-14.26.24:893][151]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-14.26.24:893][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-14.26.24:893][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-14.26.24:893][151]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-14.26.24:893][151]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-14.26.24:893][151]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-14.26.24:896][151]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-14.26.24:923][151]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-14.26.24:923][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-14.26.24:923][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-14.26.24:923][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-14.26.24:924][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.12.23-14.26.24:924][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.12.23-14.26.24:926][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.12.23-14.26.24:926][151]LogInit: FAudioDevice initialized with ID 2.
+[2024.12.23-14.26.24:926][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.12.23-14.26.24:926][151]LogAudio: Display: Audio Device (ID: 2) registered with world 'Sandbox_01'.
+[2024.12.23-14.26.24:926][151]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.23-14.26.24:947][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.26.24:948][151]LogStreaming: Display: FlushAsyncLoading(507): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.23-14.26.24:951][151]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-14.26.24:953][151]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-09.26.24
+[2024.12.23-14.26.24:954][151]LogWorld: Bringing up level for play took: 0.002497
+[2024.12.23-14.26.24:957][151]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.12.23-14.26.24:963][151]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-14.26.24:970][151]PIE: Server logged in
+[2024.12.23-14.26.24:973][151]PIE: Play in editor total start time 0.124 seconds.
+[2024.12.23-14.26.50:564][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.26.50:564][857]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.26.50:565][857]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-14.26.50:578][857]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-14.26.50:578][857]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.26.50:578][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.26.50:581][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-14.26.50:588][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.26.50:614][857]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.23-14.26.50:615][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.23-14.26.50:617][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.23-14.26.50:623][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.12.23-14.26.50:652][858]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.12.23-14.27.58:353][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.23-14.27.58:944][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.27.58:971][455]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_Character/Crane/ABP_Crane] ([2] browsable assets)...
+[2024.12.23-14.27.58:977][455]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/A_Character/Crane/ABP_Crane.ABP_Crane]
+[2024.12.23-14.27.58:977][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/ABP_Crane]
+[2024.12.23-14.27.58:977][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/ABP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/ABP_Crane.uasset" SILENT=true
+[2024.12.23-14.27.58:983][455]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/ABP_Crane
+[2024.12.23-14.27.58:984][455]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/ABP_Crane3CD4954746BC7553D1AA99BD0651287F.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/ABP_Crane.uasset'
+[2024.12.23-14.27.58:991][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.594 ms (total: 317.780 ms)
+[2024.12.23-14.27.59:012][455]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.27.59:012][455]LogContentValidation: Enabled validators:
+[2024.12.23-14.27.59:012][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.27.59:012][455]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.27.59:012][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.27.59:012][455]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.27.59:012][455]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.27.59:012][455]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.27.59:012][455]AssetCheck: /Game/A_Character/Crane/ABP_Crane Validating asset
+[2024.12.23-14.28.49:105][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.12.23-14.28.49:697][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.28.49:715][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.23-14.28.49:782][137]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane]
+[2024.12.23-14.28.49:782][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.23-14.28.49:782][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.23-14.28.49:792][137]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.23-14.28.49:792][137]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneC67DA9D547F1EAA99204E6A6731E2504.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.23-14.28.49:798][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.425 ms (total: 419.206 ms)
+[2024.12.23-14.28.49:819][137]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.28.49:819][137]LogContentValidation: Enabled validators:
+[2024.12.23-14.28.49:819][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.28.49:819][137]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.28.49:819][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.28.49:819][137]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.28.49:819][137]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.28.49:819][137]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.28.49:819][137]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.23-14.28.50:304][187]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 348.289398
+[2024.12.23-14.28.50:405][193]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.23-14.28.50:405][193]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 348.378052, Update Interval: 324.187134
+[2024.12.23-14.28.51:501][323]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-14.28.51:507][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-14.28.51:508][323]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.28.51:512][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004516s)
+[2024.12.23-14.28.51:512][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004555s)
+[2024.12.23-14.28.51:537][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.23-14.28.51:541][323]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-14.28.51:543][323]LogPlayLevel: PIE: World Init took: (0.001445s)
+[2024.12.23-14.28.51:544][323]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.12.23-14.28.51:544][323]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-14.28.51:544][323]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-14.28.51:544][323]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-14.28.51:544][323]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-14.28.51:544][323]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-14.28.51:544][323]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-14.28.51:544][323]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-14.28.51:544][323]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-14.28.51:544][323]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-14.28.51:544][323]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-14.28.51:544][323]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-14.28.51:546][323]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-14.28.51:572][323]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-14.28.51:573][323]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-14.28.51:573][323]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-14.28.51:573][323]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-14.28.51:574][323]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.12.23-14.28.51:574][323]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.12.23-14.28.51:576][323]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.12.23-14.28.51:576][323]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.12.23-14.28.51:576][323]LogInit: FAudioDevice initialized with ID 3.
+[2024.12.23-14.28.51:576][323]LogAudio: Display: Audio Device (ID: 3) registered with world 'Sandbox_01'.
+[2024.12.23-14.28.51:576][323]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.12.23-14.28.51:601][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.28.51:602][323]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-14.28.51:604][323]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-09.28.51
+[2024.12.23-14.28.51:605][323]LogWorld: Bringing up level for play took: 0.002632
+[2024.12.23-14.28.51:607][323]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.12.23-14.28.51:612][323]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-14.28.51:618][323]PIE: Server logged in
+[2024.12.23-14.28.51:620][323]PIE: Play in editor total start time 0.113 seconds.
+[2024.12.23-14.29.11:315][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.29.11:315][655]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.29.11:315][655]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-14.29.11:327][655]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-14.29.11:327][655]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.29.11:328][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.29.11:331][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-14.29.11:338][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.29.11:362][655]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.12.23-14.29.11:362][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.12.23-14.29.11:364][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.12.23-14.29.11:371][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.12.23-14.29.11:401][656]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.12.23-14.33.44:428][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.23-14.33.46:052][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.33.46:077][599]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/A_Character/Crane/ABP_Crane] ([2] browsable assets)...
+[2024.12.23-14.33.46:083][599]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/A_Character/Crane/ABP_Crane.ABP_Crane]
+[2024.12.23-14.33.46:083][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/ABP_Crane]
+[2024.12.23-14.33.46:083][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/ABP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/ABP_Crane.uasset" SILENT=true
+[2024.12.23-14.33.46:088][599]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/ABP_Crane
+[2024.12.23-14.33.46:089][599]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/ABP_Crane627A251A4FF98083D4DEAEBE3A3926DB.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/ABP_Crane.uasset'
+[2024.12.23-14.33.46:096][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.834 ms (total: 462.040 ms)
+[2024.12.23-14.33.46:118][599]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.33.46:118][599]LogContentValidation: Enabled validators:
+[2024.12.23-14.33.46:118][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.33.46:118][599]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.33.46:118][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.33.46:118][599]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.33.46:118][599]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.33.46:118][599]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.33.46:119][599]AssetCheck: /Game/A_Character/Crane/ABP_Crane Validating asset
+[2024.12.23-14.34.18:304][370]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 676.290527
+[2024.12.23-14.34.18:389][380]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.23-14.34.18:389][380]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 676.367310, Update Interval: 310.265198
+[2024.12.23-14.34.39:401][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.23-14.34.39:902][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.34.39:929][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.23-14.34.39:991][960]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane]
+[2024.12.23-14.34.39:991][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.23-14.34.39:991][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.23-14.34.40:000][960]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.23-14.34.40:001][960]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_Crane46D3DC214E8EEFAE20E83F8161D17484.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.23-14.34.40:009][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.886 ms (total: 568.926 ms)
+[2024.12.23-14.34.40:034][960]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.34.40:034][960]LogContentValidation: Enabled validators:
+[2024.12.23-14.34.40:034][960]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.34.40:034][960]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.34.40:034][960]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.34.40:034][960]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.34.40:034][960]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.34.40:035][960]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.34.40:035][960]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.23-14.34.41:518][124]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-14.34.41:524][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-14.34.41:524][124]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.34.41:528][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004511s)
+[2024.12.23-14.34.41:528][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004543s)
+[2024.12.23-14.34.41:554][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.23-14.34.41:558][124]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-14.34.41:560][124]LogPlayLevel: PIE: World Init took: (0.001455s)
+[2024.12.23-14.34.41:561][124]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.12.23-14.34.41:561][124]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-14.34.41:561][124]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-14.34.41:561][124]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-14.34.41:561][124]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-14.34.41:561][124]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-14.34.41:561][124]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-14.34.41:561][124]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-14.34.41:561][124]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-14.34.41:561][124]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-14.34.41:561][124]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-14.34.41:561][124]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-14.34.41:563][124]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-14.34.41:589][124]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-14.34.41:590][124]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-14.34.41:590][124]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-14.34.41:590][124]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-14.34.41:590][124]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.12.23-14.34.41:590][124]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.12.23-14.34.41:592][124]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.12.23-14.34.41:592][124]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.12.23-14.34.41:592][124]LogInit: FAudioDevice initialized with ID 4.
+[2024.12.23-14.34.41:592][124]LogAudio: Display: Audio Device (ID: 4) registered with world 'Sandbox_01'.
+[2024.12.23-14.34.41:592][124]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.12.23-14.34.41:622][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.34.41:622][124]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-14.34.41:623][124]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-09.34.41
+[2024.12.23-14.34.41:625][124]LogWorld: Bringing up level for play took: 0.002486
+[2024.12.23-14.34.41:627][124]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.12.23-14.34.41:632][124]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-14.34.41:637][124]PIE: Server logged in
+[2024.12.23-14.34.41:639][124]PIE: Play in editor total start time 0.116 seconds.
+[2024.12.23-14.34.58:654][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.34.58:654][269]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.34.58:655][269]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-14.34.58:673][269]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-14.34.58:673][269]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.34.58:674][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.34.58:677][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-14.34.58:684][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.34.58:707][269]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.12.23-14.34.58:707][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.23-14.34.58:709][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.23-14.34.58:715][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.23-14.34.58:749][270]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.12.23-14.35.51:207][ 34]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.23-14.36.36:577][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.12.23-14.36.37:457][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.36.37:479][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.23-14.36.37:540][601]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane]
+[2024.12.23-14.36.37:540][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.23-14.36.37:540][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.23-14.36.37:549][601]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.23-14.36.37:549][601]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneB71E47AB4FE0326C3F25EBBF43E31A9E.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.23-14.36.37:558][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.955 ms (total: 669.882 ms)
+[2024.12.23-14.36.37:582][601]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.36.37:582][601]LogContentValidation: Enabled validators:
+[2024.12.23-14.36.37:582][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.36.37:582][601]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.36.37:582][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.36.37:582][601]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.36.37:582][601]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.36.37:582][601]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.36.37:582][601]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.23-14.36.38:506][696]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-14.36.38:512][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-14.36.38:512][696]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.36.38:517][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004482s)
+[2024.12.23-14.36.38:517][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004509s)
+[2024.12.23-14.36.38:541][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.23-14.36.38:548][696]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-14.36.38:550][696]LogPlayLevel: PIE: World Init took: (0.001429s)
+[2024.12.23-14.36.38:550][696]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.12.23-14.36.38:550][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-14.36.38:550][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-14.36.38:550][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-14.36.38:550][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-14.36.38:550][696]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-14.36.38:550][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-14.36.38:550][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-14.36.38:550][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-14.36.38:550][696]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-14.36.38:550][696]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-14.36.38:550][696]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-14.36.38:553][696]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-14.36.38:577][696]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-14.36.38:577][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-14.36.38:577][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-14.36.38:577][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-14.36.38:578][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.12.23-14.36.38:578][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.12.23-14.36.38:580][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.12.23-14.36.38:580][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.12.23-14.36.38:580][696]LogInit: FAudioDevice initialized with ID 5.
+[2024.12.23-14.36.38:580][696]LogAudio: Display: Audio Device (ID: 5) registered with world 'Sandbox_01'.
+[2024.12.23-14.36.38:580][696]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.12.23-14.36.38:607][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.36.38:607][696]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-14.36.38:609][696]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-09.36.38
+[2024.12.23-14.36.38:610][696]LogWorld: Bringing up level for play took: 0.002459
+[2024.12.23-14.36.38:612][696]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.12.23-14.36.38:618][696]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-14.36.38:623][696]PIE: Server logged in
+[2024.12.23-14.36.38:625][696]PIE: Play in editor total start time 0.113 seconds.
+[2024.12.23-14.36.48:545][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.36.48:545][360]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.36.48:545][360]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-14.36.48:557][360]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-14.36.48:557][360]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.36.48:558][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.36.48:561][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-14.36.48:568][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.36.48:593][360]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.12.23-14.36.48:593][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.23-14.36.48:596][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.23-14.36.48:602][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.12.23-14.36.48:626][361]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.12.23-14.37.12:739][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.23-14.37.12:741][783]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_Environment/Maps/Sandbox_01' took 0.026
+[2024.12.23-14.37.12:742][783]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/ABP_Crane] ([2] browsable assets)...
+[2024.12.23-14.37.12:742][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/ABP_Crane]
+[2024.12.23-14.37.12:747][783]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_Character/Crane/ABP_Crane_Auto1
+[2024.12.23-14.37.12:747][783]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/ABP_Crane_Auto1D8CDB47B4DC897031C7885A92936BBE4.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Autosaves/Game/A_Character/Crane/ABP_Crane_Auto1.uasset'
+[2024.12.23-14.37.12:747][783]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.12.23-14.39.33:539][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 991.524414
+[2024.12.23-14.39.34:539][756]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.23-14.39.34:539][756]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 992.190491, Update Interval: 347.288422
+[2024.12.23-14.45.37:114][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1355.103394
+[2024.12.23-14.45.37:222][391]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.23-14.45.37:222][391]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1355.200317, Update Interval: 309.247101
+[2024.12.23-14.45.56:945][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.45.57:019][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.12.23-14.45.57:047][174]LogSavePackage: Moving output files for package: /Game/A_Environment/Maps/Sandbox_01
+[2024.12.23-14.45.57:048][174]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Sandbox_0195A7FE0241317BF60CE24B9C3C74BA84.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Environment/Maps/Sandbox_01.umap'
+[2024.12.23-14.45.57:056][174]LogFileHelpers: Saving map 'Sandbox_01' took 0.081
+[2024.12.23-14.45.57:064][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.820 ms (total: 787.703 ms)
+[2024.12.23-14.45.57:091][174]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.45.57:091][174]LogContentValidation: Enabled validators:
+[2024.12.23-14.45.57:091][174]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.45.57:091][174]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.45.57:091][174]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.45.57:091][174]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.45.57:091][174]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.45.57:091][174]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.45.57:091][174]AssetCheck: /Game/A_Environment/Maps/Sandbox_01 Validating asset
+[2024.12.23-14.45.58:679][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.23-14.45.58:684][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.45.58:712][308]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/ABP_Crane] ([2] browsable assets)...
+[2024.12.23-14.45.58:712][308]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/ABP_Crane]
+[2024.12.23-14.45.58:712][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/ABP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/ABP_Crane.uasset" SILENT=true
+[2024.12.23-14.45.58:717][308]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/ABP_Crane
+[2024.12.23-14.45.58:718][308]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/ABP_Crane6EF8213A449FC51D47FF3CAAA40FC5CF.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/ABP_Crane.uasset'
+[2024.12.23-14.45.58:724][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.870 ms (total: 828.573 ms)
+[2024.12.23-14.45.58:766][308]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.45.58:766][308]LogContentValidation: Enabled validators:
+[2024.12.23-14.45.58:766][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.45.58:766][308]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.45.58:766][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.45.58:766][308]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.45.58:766][308]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.45.58:766][308]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.45.58:766][308]AssetCheck: /Game/A_Character/Crane/ABP_Crane Validating asset
+[2024.12.23-14.46.14:009][725]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-14.46.14:022][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-14.46.14:022][725]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.46.14:027][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004504s)
+[2024.12.23-14.46.14:027][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004532s)
+[2024.12.23-14.46.14:053][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.12.23-14.46.14:055][725]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-14.46.14:057][725]LogPlayLevel: PIE: World Init took: (0.001410s)
+[2024.12.23-14.46.14:057][725]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.12.23-14.46.14:057][725]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-14.46.14:057][725]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-14.46.14:058][725]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-14.46.14:058][725]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-14.46.14:058][725]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-14.46.14:058][725]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-14.46.14:058][725]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-14.46.14:058][725]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-14.46.14:058][725]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-14.46.14:058][725]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-14.46.14:058][725]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-14.46.14:060][725]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-14.46.14:086][725]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-14.46.14:086][725]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-14.46.14:086][725]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-14.46.14:086][725]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-14.46.14:087][725]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.12.23-14.46.14:087][725]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.12.23-14.46.14:088][725]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.12.23-14.46.14:088][725]LogInit: FAudioDevice initialized with ID 6.
+[2024.12.23-14.46.14:088][725]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.12.23-14.46.14:088][725]LogAudio: Display: Audio Device (ID: 6) registered with world 'Sandbox_01'.
+[2024.12.23-14.46.14:088][725]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.12.23-14.46.14:118][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.46.14:119][725]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-14.46.14:120][725]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-09.46.14
+[2024.12.23-14.46.14:121][725]LogWorld: Bringing up level for play took: 0.002531
+[2024.12.23-14.46.14:123][725]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.12.23-14.46.14:129][725]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-14.46.14:135][725]PIE: Server logged in
+[2024.12.23-14.46.14:138][725]PIE: Play in editor total start time 0.124 seconds.
+[2024.12.23-14.46.31:735][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.46.31:735][904]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.46.31:735][904]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-14.46.31:760][904]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-14.46.31:761][904]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.46.31:761][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.46.31:765][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-14.46.31:772][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.46.31:799][904]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.12.23-14.46.31:799][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.12.23-14.46.31:801][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.12.23-14.46.31:807][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.23-14.46.31:853][905]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.12.23-14.49.16:892][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.12.23-14.49.17:456][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.49.17:488][807]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.23-14.49.17:548][807]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane]
+[2024.12.23-14.49.17:548][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.23-14.49.17:548][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.23-14.49.17:557][807]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.23-14.49.17:558][807]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_Crane476FA7AD4B3550774932D0B9A63BEE69.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.23-14.49.17:567][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.106 ms (total: 938.680 ms)
+[2024.12.23-14.49.17:585][807]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.49.17:585][807]LogContentValidation: Enabled validators:
+[2024.12.23-14.49.17:585][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.49.17:585][807]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.49.17:585][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.49.17:585][807]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.49.17:585][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.49.17:585][807]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.49.17:585][807]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.23-14.49.19:901][ 40]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-14.49.19:907][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-14.49.19:907][ 40]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.49.19:912][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004392s)
+[2024.12.23-14.49.19:912][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004420s)
+[2024.12.23-14.49.19:936][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.23-14.49.19:941][ 40]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-14.49.19:942][ 40]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2024.12.23-14.49.19:943][ 40]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.12.23-14.49.19:943][ 40]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-14.49.19:943][ 40]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-14.49.19:944][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-14.49.19:944][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-14.49.19:944][ 40]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-14.49.19:944][ 40]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-14.49.19:944][ 40]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-14.49.19:944][ 40]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-14.49.19:944][ 40]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-14.49.19:944][ 40]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-14.49.19:944][ 40]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-14.49.19:946][ 40]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-14.49.19:971][ 40]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-14.49.19:972][ 40]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-14.49.19:972][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-14.49.19:972][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-14.49.19:973][ 40]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.12.23-14.49.19:973][ 40]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.12.23-14.49.19:975][ 40]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.12.23-14.49.19:975][ 40]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.12.23-14.49.19:975][ 40]LogInit: FAudioDevice initialized with ID 7.
+[2024.12.23-14.49.19:975][ 40]LogAudio: Display: Audio Device (ID: 7) registered with world 'Sandbox_01'.
+[2024.12.23-14.49.19:975][ 40]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.12.23-14.49.19:999][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.49.20:000][ 40]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-14.49.20:001][ 40]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-09.49.20
+[2024.12.23-14.49.20:003][ 40]LogWorld: Bringing up level for play took: 0.002549
+[2024.12.23-14.49.20:006][ 40]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.12.23-14.49.20:010][ 40]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-14.49.20:016][ 40]PIE: Server logged in
+[2024.12.23-14.49.20:018][ 40]PIE: Play in editor total start time 0.111 seconds.
+[2024.12.23-14.49.30:605][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.49.30:605][749]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.49.30:605][749]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-14.49.30:624][749]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-14.49.30:624][749]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.49.30:625][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.49.30:635][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-14.49.30:643][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.49.30:669][749]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.12.23-14.49.30:669][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.12.23-14.49.30:671][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.12.23-14.49.30:678][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.12.23-14.49.30:733][750]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.12.23-14.49.49:032][322]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/A_Character/Crane/Crane_Skeleton.Crane_Skeleton
+[2024.12.23-14.49.49:032][322]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2024.12.23-14.49.49:040][322]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-14.49.49:269][322]LogChaosDD: Creating Chaos Debug Draw Scene for world World_11
+[2024.12.23-14.51.12:145][898]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1690.138794
+[2024.12.23-14.51.12:237][908]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.23-14.51.12:237][908]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1690.220947, Update Interval: 344.858551
+[2024.12.23-14.52.33:267][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.23-14.52.33:797][291]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.52.33:825][291]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.23-14.52.33:912][291]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane]
+[2024.12.23-14.52.33:912][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.23-14.52.33:912][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.23-14.52.33:921][291]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.23-14.52.33:922][291]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_Crane526C1E6A4A064FE001A535A7405E7AAB.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.23-14.52.33:931][291]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.927 ms (total: 1.07 sec)
+[2024.12.23-14.52.33:956][291]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.52.33:956][291]LogContentValidation: Enabled validators:
+[2024.12.23-14.52.33:956][291]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.52.33:956][291]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.52.33:956][291]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.52.33:956][291]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.52.33:956][291]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.52.33:956][291]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.52.33:956][291]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.23-14.52.35:099][380]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-14.52.35:105][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-14.52.35:105][380]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.52.35:110][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004491s)
+[2024.12.23-14.52.35:110][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004520s)
+[2024.12.23-14.52.35:137][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.23-14.52.35:140][380]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-14.52.35:141][380]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2024.12.23-14.52.35:142][380]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.12.23-14.52.35:142][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-14.52.35:142][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-14.52.35:142][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-14.52.35:142][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-14.52.35:142][380]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-14.52.35:142][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-14.52.35:142][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-14.52.35:142][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-14.52.35:142][380]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-14.52.35:142][380]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-14.52.35:142][380]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-14.52.35:145][380]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-14.52.35:171][380]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-14.52.35:171][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-14.52.35:171][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-14.52.35:171][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-14.52.35:172][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.12.23-14.52.35:172][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.12.23-14.52.35:174][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.12.23-14.52.35:174][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.12.23-14.52.35:174][380]LogInit: FAudioDevice initialized with ID 8.
+[2024.12.23-14.52.35:174][380]LogAudio: Display: Audio Device (ID: 8) registered with world 'Sandbox_01'.
+[2024.12.23-14.52.35:174][380]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.12.23-14.52.35:203][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.52.35:204][380]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-14.52.35:205][380]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-09.52.35
+[2024.12.23-14.52.35:207][380]LogWorld: Bringing up level for play took: 0.002596
+[2024.12.23-14.52.35:209][380]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.12.23-14.52.35:214][380]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-14.52.35:220][380]PIE: Server logged in
+[2024.12.23-14.52.35:224][380]PIE: Play in editor total start time 0.118 seconds.
+[2024.12.23-14.52.41:084][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.52.41:084][766]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.52.41:085][766]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-14.52.41:104][766]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-14.52.41:104][766]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.52.41:104][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.52.41:115][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-14.52.41:122][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.52.41:148][766]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.12.23-14.52.41:148][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.12.23-14.52.41:150][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.12.23-14.52.41:156][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.23-14.52.41:211][767]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.12.23-14.53.12:312][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.12.23-14.53.12:322][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.53.12:349][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/BP_Crane] ([2] browsable assets)...
+[2024.12.23-14.53.12:431][ 88]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane]
+[2024.12.23-14.53.12:431][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/BP_Crane]
+[2024.12.23-14.53.12:431][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/BP_Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset" SILENT=true
+[2024.12.23-14.53.12:441][ 88]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/BP_Crane
+[2024.12.23-14.53.12:441][ 88]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BP_CraneC95ACE9E480EFE330CA39B91E5954BC1.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/BP_Crane.uasset'
+[2024.12.23-14.53.12:450][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.658 ms (total: 1.20 sec)
+[2024.12.23-14.53.12:481][ 88]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.53.12:481][ 88]LogContentValidation: Enabled validators:
+[2024.12.23-14.53.12:481][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.53.12:481][ 88]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.53.12:481][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.53.12:481][ 88]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.53.12:481][ 88]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.53.12:481][ 88]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.53.12:481][ 88]AssetCheck: /Game/A_Character/Crane/BP_Crane Validating asset
+[2024.12.23-14.53.20:573][977]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/A_Character/Crane/Crane.Crane
+[2024.12.23-14.53.20:574][977]LogChaosDD: Creating Chaos Debug Draw Scene for world World_12
+[2024.12.23-14.53.20:582][977]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-14.53.43:761][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.53.43:792][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Character/Crane/Crane] ([1] browsable assets)...
+[2024.12.23-14.53.43:799][554]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/A_Character/Crane/Crane.Crane]
+[2024.12.23-14.53.43:799][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/Crane]
+[2024.12.23-14.53.43:799][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/Crane" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane.uasset" SILENT=true
+[2024.12.23-14.53.43:803][554]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/Crane
+[2024.12.23-14.53.43:804][554]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Crane49B31E034D68B8C7E786378711447AE8.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane.uasset'
+[2024.12.23-14.53.43:811][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.059 ms (total: 1.25 sec)
+[2024.12.23-14.53.43:841][554]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.53.43:841][554]LogContentValidation: Enabled validators:
+[2024.12.23-14.53.43:841][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.53.43:841][554]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.53.43:841][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.53.43:841][554]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.53.43:841][554]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.53.43:841][554]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.53.43:841][554]AssetCheck: /Game/A_Character/Crane/Crane Validating asset
+[2024.12.23-14.53.44:891][645]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-14.53.44:897][645]LogPlayLevel: [PlayLevel] Compiling BP_Crane before play...
+[2024.12.23-14.53.45:016][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.23-14.53.45:018][645]LogPlayLevel: PlayLevel: Blueprint regeneration took 122 ms (1 blueprints)
+[2024.12.23-14.53.45:019][645]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.53.45:024][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004491s)
+[2024.12.23-14.53.45:024][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004521s)
+[2024.12.23-14.53.45:050][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.23-14.53.45:051][645]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-14.53.45:053][645]LogPlayLevel: PIE: World Init took: (0.001631s)
+[2024.12.23-14.53.45:054][645]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.12.23-14.53.45:054][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-14.53.45:054][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-14.53.45:054][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-14.53.45:054][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-14.53.45:054][645]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-14.53.45:054][645]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-14.53.45:054][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-14.53.45:054][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-14.53.45:054][645]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-14.53.45:054][645]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-14.53.45:054][645]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-14.53.45:056][645]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-14.53.45:082][645]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-14.53.45:082][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-14.53.45:082][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-14.53.45:082][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-14.53.45:083][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.12.23-14.53.45:083][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.12.23-14.53.45:084][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.12.23-14.53.45:084][645]LogInit: FAudioDevice initialized with ID 9.
+[2024.12.23-14.53.45:084][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.12.23-14.53.45:086][645]LogAudio: Display: Audio Device (ID: 9) registered with world 'Sandbox_01'.
+[2024.12.23-14.53.45:086][645]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.12.23-14.53.45:114][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.53.45:114][645]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-14.53.45:117][645]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-09.53.45
+[2024.12.23-14.53.45:118][645]LogWorld: Bringing up level for play took: 0.002602
+[2024.12.23-14.53.45:120][645]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.12.23-14.53.45:125][645]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-14.53.45:131][645]PIE: Server logged in
+[2024.12.23-14.53.45:133][645]PIE: Play in editor total start time 0.237 seconds.
+[2024.12.23-14.53.52:815][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.53.52:815][149]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.53.52:815][149]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-14.53.52:841][149]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-14.53.52:842][149]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.53.52:842][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.53.52:846][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-14.53.52:854][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.53.52:879][149]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.12.23-14.53.52:880][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.12.23-14.53.52:881][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.12.23-14.53.52:889][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.23-14.53.52:936][150]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.12.23-14.53.58:408][573]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_Character/Crane/BP_Crane.BP_Crane_C
+[2024.12.23-14.53.58:409][573]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_Character/Crane/BP_Crane.BP_Crane_C
+[2024.12.23-14.53.58:411][573]LogActorFactory: Actor Factory spawned Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane as actor: BP_Crane_C /Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_0
+[2024.12.23-14.53.58:413][573]LogActorFactory: Actor Factory spawned Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane as actor: BP_Crane_C /Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_0
+[2024.12.23-14.53.58:899][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.12.23-14.53.58:903][615]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2024.12.23-14.53.58:909][615]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_Character/Crane/BP_Crane.BP_Crane_C
+[2024.12.23-14.53.58:909][615]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/A_Character/Crane/BP_Crane.BP_Crane_C
+[2024.12.23-14.53.58:913][615]LogActorFactory: Actor Factory spawned Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane as actor: BP_Crane_C /Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1
+[2024.12.23-14.53.58:915][615]LogActorFactory: Actor Factory spawned Blueprint /Game/A_Character/Crane/BP_Crane.BP_Crane as actor: BP_Crane_C /Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.BP_Crane_C_1
+[2024.12.23-14.54.03:989][ 66]Cmd: DELETE
+[2024.12.23-14.54.03:989][ 66]Cmd: ACTOR DELETE
+[2024.12.23-14.54.03:994][ 66]LogEditorActor: Deleted Actor: BP_Crane_C
+[2024.12.23-14.54.04:030][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.12.23-14.54.04:035][ 66]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2024.12.23-14.54.07:137][385]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-14.54.07:142][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-14.54.07:143][385]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.54.07:147][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004369s)
+[2024.12.23-14.54.07:147][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004398s)
+[2024.12.23-14.54.07:172][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.23-14.54.07:175][385]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-14.54.07:177][385]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2024.12.23-14.54.07:177][385]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.12.23-14.54.07:177][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-14.54.07:177][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-14.54.07:177][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-14.54.07:177][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-14.54.07:177][385]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-14.54.07:177][385]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-14.54.07:177][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-14.54.07:177][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-14.54.07:177][385]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-14.54.07:177][385]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-14.54.07:177][385]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-14.54.07:180][385]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-14.54.07:206][385]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-14.54.07:207][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-14.54.07:207][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-14.54.07:207][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-14.54.07:207][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.12.23-14.54.07:207][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.12.23-14.54.07:209][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.12.23-14.54.07:209][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.12.23-14.54.07:209][385]LogInit: FAudioDevice initialized with ID 10.
+[2024.12.23-14.54.07:209][385]LogAudio: Display: Audio Device (ID: 10) registered with world 'Sandbox_01'.
+[2024.12.23-14.54.07:209][385]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.23-14.54.07:233][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.54.07:233][385]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-14.54.07:234][385]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-09.54.07
+[2024.12.23-14.54.07:235][385]LogWorld: Bringing up level for play took: 0.002384
+[2024.12.23-14.54.07:237][385]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.12.23-14.54.07:242][385]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-14.54.07:249][385]PIE: Server logged in
+[2024.12.23-14.54.07:251][385]PIE: Play in editor total start time 0.108 seconds.
+[2024.12.23-14.54.19:945][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.54.19:945][227]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.54.19:945][227]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-14.54.19:978][227]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-14.54.19:979][227]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.54.19:979][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.54.19:982][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-14.54.19:989][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.54.20:013][227]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.23-14.54.20:013][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.23-14.54.20:015][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.23-14.54.20:022][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.23-14.54.20:069][228]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.12.23-14.54.41:922][140]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/A_Character/Crane/Crane_PhysicsAsset.Crane_PhysicsAsset
+[2024.12.23-14.54.41:942][140]LogChaosDD: Creating Chaos Debug Draw Scene for world World_13
+[2024.12.23-14.54.41:952][140]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.12.23-14.56.36:675][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.56.36:702][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/Crane_PhysicsAsset] ([1] browsable assets)...
+[2024.12.23-14.56.36:702][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/Crane_PhysicsAsset]
+[2024.12.23-14.56.36:702][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/Crane_PhysicsAsset" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset" SILENT=true
+[2024.12.23-14.56.36:703][ 25]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/Crane_PhysicsAsset
+[2024.12.23-14.56.36:704][ 25]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Crane_PhysicsAsset52354DC4451A5BC4CFCA609CE143F3B5.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset'
+[2024.12.23-14.56.36:711][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.520 ms (total: 1.28 sec)
+[2024.12.23-14.56.36:735][ 25]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.56.36:735][ 25]LogContentValidation: Enabled validators:
+[2024.12.23-14.56.36:735][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.56.36:735][ 25]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.56.36:735][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.56.36:735][ 25]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.56.36:735][ 25]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.56.36:735][ 25]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.56.36:735][ 25]AssetCheck: /Game/A_Character/Crane/Crane_PhysicsAsset Validating asset
+[2024.12.23-14.56.38:155][147]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-14.56.38:162][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-14.56.38:162][147]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.56.38:166][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004541s)
+[2024.12.23-14.56.38:166][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004569s)
+[2024.12.23-14.56.38:205][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.23-14.56.38:209][147]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-14.56.38:210][147]LogPlayLevel: PIE: World Init took: (0.001459s)
+[2024.12.23-14.56.38:211][147]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.12.23-14.56.38:211][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-14.56.38:211][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-14.56.38:211][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-14.56.38:211][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-14.56.38:211][147]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-14.56.38:211][147]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-14.56.38:211][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-14.56.38:211][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-14.56.38:211][147]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-14.56.38:211][147]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-14.56.38:211][147]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-14.56.38:213][147]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-14.56.38:239][147]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-14.56.38:239][147]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-14.56.38:240][147]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-14.56.38:240][147]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-14.56.38:240][147]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.12.23-14.56.38:240][147]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.12.23-14.56.38:242][147]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.12.23-14.56.38:242][147]LogInit: FAudioDevice initialized with ID 11.
+[2024.12.23-14.56.38:242][147]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.12.23-14.56.38:242][147]LogAudio: Display: Audio Device (ID: 11) registered with world 'Sandbox_01'.
+[2024.12.23-14.56.38:242][147]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.12.23-14.56.38:271][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.56.38:272][147]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-14.56.38:273][147]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-09.56.38
+[2024.12.23-14.56.38:275][147]LogWorld: Bringing up level for play took: 0.002539
+[2024.12.23-14.56.38:277][147]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.12.23-14.56.38:282][147]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-14.56.38:289][147]PIE: Server logged in
+[2024.12.23-14.56.38:292][147]PIE: Play in editor total start time 0.13 seconds.
+[2024.12.23-14.56.45:876][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.56.45:876][639]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.56.45:876][639]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-14.56.45:892][639]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-14.56.45:892][639]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.56.45:892][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.56.45:896][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-14.56.45:903][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.56.45:928][639]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.23-14.56.45:928][639]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.12.23-14.56.45:928][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.12.23-14.56.45:930][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.12.23-14.56.45:937][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.23-14.56.45:989][640]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.12.23-14.56.53:315][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-14.56.53:344][285]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/Crane_PhysicsAsset] ([1] browsable assets)...
+[2024.12.23-14.56.53:344][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/Crane_PhysicsAsset]
+[2024.12.23-14.56.53:344][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/Crane_PhysicsAsset" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset" SILENT=true
+[2024.12.23-14.56.53:346][285]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/Crane_PhysicsAsset
+[2024.12.23-14.56.53:346][285]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Crane_PhysicsAsset264973764514AA7388424BB4974B3871.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset'
+[2024.12.23-14.56.53:352][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.893 ms (total: 1.32 sec)
+[2024.12.23-14.56.53:370][285]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-14.56.53:370][285]LogContentValidation: Enabled validators:
+[2024.12.23-14.56.53:370][285]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-14.56.53:370][285]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-14.56.53:370][285]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-14.56.53:370][285]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-14.56.53:370][285]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-14.56.53:370][285]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-14.56.53:370][285]AssetCheck: /Game/A_Character/Crane/Crane_PhysicsAsset Validating asset
+[2024.12.23-14.56.54:447][373]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-14.56.54:462][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-14.56.54:462][373]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.56.54:467][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004462s)
+[2024.12.23-14.56.54:467][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004492s)
+[2024.12.23-14.56.54:492][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.23-14.56.54:494][373]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-14.56.54:496][373]LogPlayLevel: PIE: World Init took: (0.001479s)
+[2024.12.23-14.56.54:497][373]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.12.23-14.56.54:497][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-14.56.54:497][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-14.56.54:497][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-14.56.54:497][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-14.56.54:497][373]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-14.56.54:497][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-14.56.54:497][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-14.56.54:497][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-14.56.54:497][373]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-14.56.54:497][373]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-14.56.54:497][373]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-14.56.54:500][373]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-14.56.54:525][373]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-14.56.54:525][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-14.56.54:525][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-14.56.54:525][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-14.56.54:525][373]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.12.23-14.56.54:525][373]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.12.23-14.56.54:527][373]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.12.23-14.56.54:527][373]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.12.23-14.56.54:527][373]LogInit: FAudioDevice initialized with ID 12.
+[2024.12.23-14.56.54:527][373]LogAudio: Display: Audio Device (ID: 12) registered with world 'Sandbox_01'.
+[2024.12.23-14.56.54:527][373]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.12.23-14.56.54:555][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.56.54:555][373]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-14.56.54:556][373]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-09.56.54
+[2024.12.23-14.56.54:558][373]LogWorld: Bringing up level for play took: 0.002503
+[2024.12.23-14.56.54:560][373]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.12.23-14.56.54:565][373]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-14.56.54:571][373]PIE: Server logged in
+[2024.12.23-14.56.54:574][373]PIE: Play in editor total start time 0.112 seconds.
+[2024.12.23-14.57.05:924][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.57.05:924][113]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.57.05:925][113]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-14.57.05:940][113]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-14.57.05:940][113]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.57.05:941][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.57.05:943][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-14.57.05:951][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.57.05:977][113]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.12.23-14.57.05:978][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.12.23-14.57.05:979][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.12.23-14.57.05:987][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.23-14.57.06:039][114]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.12.23-14.57.50:409][619]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2088.397217
+[2024.12.23-14.57.50:515][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.23-14.57.50:515][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2088.493164, Update Interval: 315.791504
+[2024.12.23-14.57.58:151][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.23-14.57.58:179][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_Environment/Maps/Sandbox_01_Auto2
+[2024.12.23-14.57.58:180][399]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Sandbox_01_Auto2C2C6DD8643A12AAE243FE3856747DDB8.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Autosaves/Game/A_Environment/Maps/Sandbox_01_Auto2.umap'
+[2024.12.23-14.57.58:181][399]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_Environment/Maps/Sandbox_01' took 0.055
+[2024.12.23-14.57.58:181][399]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2024.12.23-14.58.33:100][905]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_Character/Crane/CraneWheel_Rear.CraneWheel_Rear
+[2024.12.23-14.58.33:101][905]LogChaosDD: Creating Chaos Debug Draw Scene for world World_14
+[2024.12.23-14.58.33:379][908]LogChaosDD: Creating Chaos Debug Draw Scene for world World_15
+[2024.12.23-14.59.29:762][621]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_Character/Crane/CraneWheel_Front.CraneWheel_Front
+[2024.12.23-14.59.29:762][621]LogChaosDD: Creating Chaos Debug Draw Scene for world World_16
+[2024.12.23-14.59.36:019][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.12.23-14.59.38:076][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.23-14.59.39:300][653]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-14.59.39:306][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-14.59.39:306][653]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.59.39:310][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004625s)
+[2024.12.23-14.59.39:310][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004655s)
+[2024.12.23-14.59.39:337][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.23-14.59.39:339][653]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-14.59.39:341][653]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2024.12.23-14.59.39:341][653]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.12.23-14.59.39:341][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-14.59.39:341][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-14.59.39:341][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-14.59.39:341][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-14.59.39:341][653]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-14.59.39:341][653]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-14.59.39:341][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-14.59.39:341][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-14.59.39:341][653]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-14.59.39:341][653]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-14.59.39:341][653]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-14.59.39:343][653]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-14.59.39:369][653]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-14.59.39:369][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-14.59.39:369][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-14.59.39:369][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-14.59.39:370][653]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.12.23-14.59.39:370][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.12.23-14.59.39:372][653]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.12.23-14.59.39:372][653]LogInit: FAudioDevice initialized with ID 13.
+[2024.12.23-14.59.39:372][653]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.12.23-14.59.39:372][653]LogAudio: Display: Audio Device (ID: 13) registered with world 'Sandbox_01'.
+[2024.12.23-14.59.39:372][653]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.12.23-14.59.39:394][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.59.39:395][653]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-14.59.39:396][653]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-09.59.39
+[2024.12.23-14.59.39:397][653]LogWorld: Bringing up level for play took: 0.002536
+[2024.12.23-14.59.39:400][653]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.12.23-14.59.39:405][653]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-14.59.39:411][653]PIE: Server logged in
+[2024.12.23-14.59.39:414][653]PIE: Play in editor total start time 0.108 seconds.
+[2024.12.23-14.59.51:915][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-14.59.51:915][476]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-14.59.51:915][476]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-14.59.51:941][476]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-14.59.51:941][476]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-14.59.51:942][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.59.51:946][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-14.59.51:953][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-14.59.51:978][476]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.23-14.59.51:979][476]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.12.23-14.59.51:979][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.12.23-14.59.51:980][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.12.23-14.59.51:988][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.23-14.59.52:045][477]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.12.23-15.03.44:769][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2442.754395
+[2024.12.23-15.03.44:860][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.23-15.03.44:860][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2442.837891, Update Interval: 305.870544
+[2024.12.23-15.08.11:053][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.12.23-15.08.11:058][609]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_Environment/Maps/Sandbox_01' took 0.033
+[2024.12.23-15.08.11:059][609]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/CraneWheel_Front] ([2] browsable assets)...
+[2024.12.23-15.08.11:059][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/CraneWheel_Front]
+[2024.12.23-15.08.11:060][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_Character/Crane/CraneWheel_Front_Auto3
+[2024.12.23-15.08.11:060][609]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/CraneWheel_Front_Auto3EA31C64841DCD78054B0579DD80BC9DF.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Autosaves/Game/A_Character/Crane/CraneWheel_Front_Auto3.uasset'
+[2024.12.23-15.08.11:061][609]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/CraneWheel_Rear] ([2] browsable assets)...
+[2024.12.23-15.08.11:061][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/CraneWheel_Rear]
+[2024.12.23-15.08.11:062][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_Character/Crane/CraneWheel_Rear_Auto3
+[2024.12.23-15.08.11:062][609]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/CraneWheel_Rear_Auto314292CF44732043786FED58B1450E56E.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Autosaves/Game/A_Character/Crane/CraneWheel_Rear_Auto3.uasset'
+[2024.12.23-15.08.11:062][609]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.12.23-15.09.32:577][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2790.552246
+[2024.12.23-15.09.32:661][108]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.23-15.09.32:661][108]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2790.626953, Update Interval: 353.613098
+[2024.12.23-15.09.33:835][228]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.09.33:836][228]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.03:184][588]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.03:184][588]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.06:610][941]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.06:611][941]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.06:611][941]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.06:611][941]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.11:463][406]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.11:464][406]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.11:464][406]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.11:465][406]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.18:328][ 36]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.18:329][ 36]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.18:329][ 36]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.18:329][ 36]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.24:456][611]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.24:456][611]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.24:457][611]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.24:458][611]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2024.12.23-15.10.27:190][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-15.10.27:218][866]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/Crane_PhysicsAsset] ([1] browsable assets)...
+[2024.12.23-15.10.27:218][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/Crane_PhysicsAsset]
+[2024.12.23-15.10.27:218][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/Crane_PhysicsAsset" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset" SILENT=true
+[2024.12.23-15.10.27:220][866]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/Crane_PhysicsAsset
+[2024.12.23-15.10.27:220][866]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Crane_PhysicsAsset06E8856C497C7ADEA4E2A392B04618BE.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset'
+[2024.12.23-15.10.27:226][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.831 ms (total: 1.35 sec)
+[2024.12.23-15.10.27:252][866]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-15.10.27:252][866]LogContentValidation: Enabled validators:
+[2024.12.23-15.10.27:252][866]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-15.10.27:252][866]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-15.10.27:252][866]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-15.10.27:252][866]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-15.10.27:252][866]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-15.10.27:252][866]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-15.10.27:252][866]AssetCheck: /Game/A_Character/Crane/Crane_PhysicsAsset Validating asset
+[2024.12.23-15.10.49:789][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-15.10.49:817][496]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/Crane_PhysicsAsset] ([1] browsable assets)...
+[2024.12.23-15.10.49:817][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/Crane_PhysicsAsset]
+[2024.12.23-15.10.49:817][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/Crane_PhysicsAsset" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset" SILENT=true
+[2024.12.23-15.10.49:819][496]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/Crane_PhysicsAsset
+[2024.12.23-15.10.49:820][496]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Crane_PhysicsAsset92E256034C3EEF570E229382C777B92B.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset'
+[2024.12.23-15.10.49:825][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.768 ms (total: 1.39 sec)
+[2024.12.23-15.10.49:853][496]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-15.10.49:853][496]LogContentValidation: Enabled validators:
+[2024.12.23-15.10.49:853][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-15.10.49:853][496]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-15.10.49:853][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-15.10.49:853][496]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-15.10.49:853][496]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-15.10.49:853][496]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-15.10.49:853][496]AssetCheck: /Game/A_Character/Crane/Crane_PhysicsAsset Validating asset
+[2024.12.23-15.10.52:936][643]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-15.10.52:942][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-15.10.52:942][643]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-15.10.52:946][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004654s)
+[2024.12.23-15.10.52:946][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004684s)
+[2024.12.23-15.10.52:972][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.12.23-15.10.52:975][643]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-15.10.52:977][643]LogPlayLevel: PIE: World Init took: (0.001623s)
+[2024.12.23-15.10.52:977][643]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.12.23-15.10.52:977][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-15.10.52:977][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-15.10.52:977][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-15.10.52:977][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-15.10.52:977][643]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-15.10.52:977][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-15.10.52:977][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-15.10.52:977][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-15.10.52:977][643]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-15.10.52:977][643]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-15.10.52:977][643]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-15.10.52:980][643]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-15.10.53:007][643]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-15.10.53:007][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-15.10.53:007][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-15.10.53:007][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-15.10.53:008][643]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.12.23-15.10.53:008][643]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.12.23-15.10.53:010][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.12.23-15.10.53:010][643]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.12.23-15.10.53:010][643]LogInit: FAudioDevice initialized with ID 14.
+[2024.12.23-15.10.53:010][643]LogAudio: Display: Audio Device (ID: 14) registered with world 'Sandbox_01'.
+[2024.12.23-15.10.53:010][643]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.12.23-15.10.53:032][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-15.10.53:032][643]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-15.10.53:034][643]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-10.10.53
+[2024.12.23-15.10.53:036][643]LogWorld: Bringing up level for play took: 0.002669
+[2024.12.23-15.10.53:038][643]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.12.23-15.10.53:043][643]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-15.10.53:049][643]PIE: Server logged in
+[2024.12.23-15.10.53:052][643]PIE: Play in editor total start time 0.11 seconds.
+[2024.12.23-15.11.04:445][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-15.11.04:445][392]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-15.11.04:445][392]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-15.11.04:475][392]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-15.11.04:476][392]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.11.04:476][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.11.04:479][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-15.11.04:486][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.11.04:511][392]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.23-15.11.04:511][392]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.12.23-15.11.04:511][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.12.23-15.11.04:514][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.12.23-15.11.04:521][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.23-15.11.04:578][393]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.12.23-15.16.02:179][135]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3180.158447
+[2024.12.23-15.16.02:276][145]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.23-15.16.02:276][145]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3180.245850, Update Interval: 354.510315
+[2024.12.23-15.16.32:275][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-15.16.32:300][ 91]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/Crane_PhysicsAsset] ([1] browsable assets)...
+[2024.12.23-15.16.32:301][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/Crane_PhysicsAsset]
+[2024.12.23-15.16.32:301][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/Crane_PhysicsAsset" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset" SILENT=true
+[2024.12.23-15.16.32:303][ 91]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/Crane_PhysicsAsset
+[2024.12.23-15.16.32:303][ 91]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Crane_PhysicsAsset108F68074005399EFC861289B68A3EED.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset'
+[2024.12.23-15.16.32:309][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.643 ms (total: 1.42 sec)
+[2024.12.23-15.16.32:335][ 91]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-15.16.32:335][ 91]LogContentValidation: Enabled validators:
+[2024.12.23-15.16.32:335][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-15.16.32:335][ 91]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-15.16.32:335][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-15.16.32:335][ 91]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-15.16.32:335][ 91]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-15.16.32:335][ 91]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-15.16.32:335][ 91]AssetCheck: /Game/A_Character/Crane/Crane_PhysicsAsset Validating asset
+[2024.12.23-15.16.34:983][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.12.23-15.16.34:991][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-15.16.35:058][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.23-15.16.35:084][360]LogSavePackage: Moving output files for package: /Game/A_Environment/Maps/Sandbox_01
+[2024.12.23-15.16.35:084][360]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Sandbox_01EE39D64C488BF2E42C2531B66D76FDE3.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Environment/Maps/Sandbox_01.umap'
+[2024.12.23-15.16.35:092][360]LogFileHelpers: Saving map 'Sandbox_01' took 0.073
+[2024.12.23-15.16.35:092][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/CraneWheel_Front] ([2] browsable assets)...
+[2024.12.23-15.16.35:092][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/CraneWheel_Front]
+[2024.12.23-15.16.35:092][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/CraneWheel_Front" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/CraneWheel_Front.uasset" SILENT=true
+[2024.12.23-15.16.35:094][360]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/CraneWheel_Front
+[2024.12.23-15.16.35:094][360]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/CraneWheel_Front142AB0CF4A19279D1A3A6094CAAF9F05.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/CraneWheel_Front.uasset'
+[2024.12.23-15.16.35:095][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/CraneWheel_Rear] ([2] browsable assets)...
+[2024.12.23-15.16.35:095][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/CraneWheel_Rear]
+[2024.12.23-15.16.35:095][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/CraneWheel_Rear" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/CraneWheel_Rear.uasset" SILENT=true
+[2024.12.23-15.16.35:096][360]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/CraneWheel_Rear
+[2024.12.23-15.16.35:096][360]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/CraneWheel_RearD79B8BB74BA107443AB1839500C29F22.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/CraneWheel_Rear.uasset'
+[2024.12.23-15.16.35:104][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.483 ms (total: 1.54 sec)
+[2024.12.23-15.16.35:130][360]LogContentValidation: Display: Starting to validate 3 assets
+[2024.12.23-15.16.35:130][360]LogContentValidation: Enabled validators:
+[2024.12.23-15.16.35:130][360]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-15.16.35:130][360]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-15.16.35:130][360]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-15.16.35:130][360]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-15.16.35:130][360]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-15.16.35:130][360]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-15.16.35:130][360]AssetCheck: /Game/A_Environment/Maps/Sandbox_01 Validating asset
+[2024.12.23-15.16.35:130][360]AssetCheck: /Game/A_Character/Crane/CraneWheel_Front Validating asset
+[2024.12.23-15.16.35:130][360]AssetCheck: /Game/A_Character/Crane/CraneWheel_Rear Validating asset
+[2024.12.23-15.18.44:682][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.23-15.18.45:820][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-15.18.45:847][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/CraneWheel_Front] ([2] browsable assets)...
+[2024.12.23-15.18.45:847][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/CraneWheel_Front]
+[2024.12.23-15.18.45:847][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/CraneWheel_Front" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/CraneWheel_Front.uasset" SILENT=true
+[2024.12.23-15.18.45:848][362]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/CraneWheel_Front
+[2024.12.23-15.18.45:849][362]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/CraneWheel_FrontEB979A8A42231E1FA7C68096FBA5DF65.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/CraneWheel_Front.uasset'
+[2024.12.23-15.18.45:855][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.091 ms (total: 1.57 sec)
+[2024.12.23-15.18.45:879][362]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-15.18.45:879][362]LogContentValidation: Enabled validators:
+[2024.12.23-15.18.45:879][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-15.18.45:879][362]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-15.18.45:879][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-15.18.45:879][362]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-15.18.45:879][362]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-15.18.45:879][362]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-15.18.45:879][362]AssetCheck: /Game/A_Character/Crane/CraneWheel_Front Validating asset
+[2024.12.23-15.18.47:904][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.23-15.18.48:459][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-15.18.48:487][659]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/CraneWheel_Rear] ([2] browsable assets)...
+[2024.12.23-15.18.48:487][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/CraneWheel_Rear]
+[2024.12.23-15.18.48:487][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/CraneWheel_Rear" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/CraneWheel_Rear.uasset" SILENT=true
+[2024.12.23-15.18.48:489][659]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/CraneWheel_Rear
+[2024.12.23-15.18.48:489][659]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/CraneWheel_RearEC9ABB9B451F77D12B288584F3009AD1.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/CraneWheel_Rear.uasset'
+[2024.12.23-15.18.48:495][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.825 ms (total: 1.61 sec)
+[2024.12.23-15.18.48:521][659]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-15.18.48:521][659]LogContentValidation: Enabled validators:
+[2024.12.23-15.18.48:521][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-15.18.48:521][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-15.18.48:521][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-15.18.48:521][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-15.18.48:521][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-15.18.48:521][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-15.18.48:521][659]AssetCheck: /Game/A_Character/Crane/CraneWheel_Rear Validating asset
+[2024.12.23-15.22.55:651][ 95]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3593.622070
+[2024.12.23-15.22.56:650][ 98]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.23-15.22.56:650][ 98]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3594.288818, Update Interval: 325.164948
+[2024.12.23-15.24.22:427][627]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.23-15.24.57:246][594]LogDerivedDataCache: C:/Users/laure/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.23-15.25.34:385][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-15.25.34:418][183]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/Crane_PhysicsAsset] ([1] browsable assets)...
+[2024.12.23-15.25.34:418][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/Crane_PhysicsAsset]
+[2024.12.23-15.25.34:418][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/Crane_PhysicsAsset" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset" SILENT=true
+[2024.12.23-15.25.34:420][183]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/Crane_PhysicsAsset
+[2024.12.23-15.25.34:420][183]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Crane_PhysicsAssetF62E70154680E5607472ECA38B4B4C35.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset'
+[2024.12.23-15.25.34:427][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.909 ms (total: 1.65 sec)
+[2024.12.23-15.25.34:451][183]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-15.25.34:451][183]LogContentValidation: Enabled validators:
+[2024.12.23-15.25.34:451][183]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-15.25.34:451][183]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-15.25.34:451][183]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-15.25.34:451][183]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-15.25.34:451][183]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-15.25.34:451][183]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-15.25.34:451][183]AssetCheck: /Game/A_Character/Crane/Crane_PhysicsAsset Validating asset
+[2024.12.23-15.25.41:436][849]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-15.25.41:442][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-15.25.41:442][849]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-15.25.41:447][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004811s)
+[2024.12.23-15.25.41:447][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004841s)
+[2024.12.23-15.25.41:474][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.12.23-15.25.41:480][849]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-15.25.41:482][849]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2024.12.23-15.25.41:482][849]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.12.23-15.25.41:482][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-15.25.41:482][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-15.25.41:482][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-15.25.41:482][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-15.25.41:482][849]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-15.25.41:482][849]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-15.25.41:482][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-15.25.41:482][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-15.25.41:482][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-15.25.41:482][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-15.25.41:482][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-15.25.41:485][849]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-15.25.41:511][849]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-15.25.41:511][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-15.25.41:511][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-15.25.41:511][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-15.25.41:512][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.12.23-15.25.41:512][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.12.23-15.25.41:514][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.12.23-15.25.41:514][849]LogInit: FAudioDevice initialized with ID 15.
+[2024.12.23-15.25.41:514][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.12.23-15.25.41:514][849]LogAudio: Display: Audio Device (ID: 15) registered with world 'Sandbox_01'.
+[2024.12.23-15.25.41:514][849]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.12.23-15.25.41:545][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-15.25.41:545][849]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-15.25.41:547][849]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-10.25.41
+[2024.12.23-15.25.41:548][849]LogWorld: Bringing up level for play took: 0.002657
+[2024.12.23-15.25.41:551][849]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.12.23-15.25.41:556][849]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-15.25.41:562][849]PIE: Server logged in
+[2024.12.23-15.25.41:564][849]PIE: Play in editor total start time 0.122 seconds.
+[2024.12.23-15.25.48:855][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-15.25.48:855][314]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-15.25.48:855][314]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-15.25.48:872][314]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-15.25.48:872][314]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.25.48:872][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.25.48:876][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-15.25.48:883][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.25.48:907][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.23-15.25.48:907][314]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.12.23-15.25.48:908][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.12.23-15.25.48:910][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.12.23-15.25.48:916][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.23-15.25.48:962][315]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.12.23-15.25.59:663][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-15.25.59:692][252]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/Crane_PhysicsAsset] ([1] browsable assets)...
+[2024.12.23-15.25.59:692][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/Crane_PhysicsAsset]
+[2024.12.23-15.25.59:692][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/Crane_PhysicsAsset" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset" SILENT=true
+[2024.12.23-15.25.59:694][252]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/Crane_PhysicsAsset
+[2024.12.23-15.25.59:695][252]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Crane_PhysicsAsset908129104338A7FEF7E6F8A92D4DD774.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset'
+[2024.12.23-15.25.59:701][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.066 ms (total: 1.69 sec)
+[2024.12.23-15.25.59:726][252]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-15.25.59:726][252]LogContentValidation: Enabled validators:
+[2024.12.23-15.25.59:726][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-15.25.59:726][252]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-15.25.59:726][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-15.25.59:726][252]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-15.25.59:726][252]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-15.25.59:726][252]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-15.25.59:726][252]AssetCheck: /Game/A_Character/Crane/Crane_PhysicsAsset Validating asset
+[2024.12.23-15.26.01:023][350]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-15.26.01:029][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-15.26.01:029][350]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-15.26.01:033][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004389s)
+[2024.12.23-15.26.01:033][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004417s)
+[2024.12.23-15.26.01:058][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.23-15.26.01:062][350]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-15.26.01:063][350]LogPlayLevel: PIE: World Init took: (0.001496s)
+[2024.12.23-15.26.01:064][350]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.12.23-15.26.01:064][350]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-15.26.01:064][350]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-15.26.01:064][350]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-15.26.01:064][350]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-15.26.01:064][350]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-15.26.01:064][350]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-15.26.01:064][350]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-15.26.01:064][350]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-15.26.01:064][350]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-15.26.01:064][350]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-15.26.01:064][350]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-15.26.01:067][350]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-15.26.01:092][350]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-15.26.01:092][350]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-15.26.01:092][350]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-15.26.01:092][350]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-15.26.01:094][350]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.12.23-15.26.01:094][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.12.23-15.26.01:095][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.12.23-15.26.01:095][350]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.12.23-15.26.01:095][350]LogInit: FAudioDevice initialized with ID 16.
+[2024.12.23-15.26.01:095][350]LogAudio: Display: Audio Device (ID: 16) registered with world 'Sandbox_01'.
+[2024.12.23-15.26.01:095][350]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.12.23-15.26.01:120][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-15.26.01:120][350]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-15.26.01:122][350]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-10.26.01
+[2024.12.23-15.26.01:122][350]LogWorld: Bringing up level for play took: 0.002459
+[2024.12.23-15.26.01:125][350]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.12.23-15.26.01:130][350]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-15.26.01:136][350]PIE: Server logged in
+[2024.12.23-15.26.01:139][350]PIE: Play in editor total start time 0.111 seconds.
+[2024.12.23-15.26.13:945][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-15.26.13:945][168]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-15.26.13:945][168]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-15.26.13:966][168]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-15.26.13:966][168]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.26.13:966][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.26.13:969][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-15.26.13:976][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.26.14:002][168]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.12.23-15.26.14:002][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.12.23-15.26.14:005][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.12.23-15.26.14:011][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.23-15.26.14:067][169]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.12.23-15.27.25:648][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-15.27.25:682][ 28]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Crane/Crane_PhysicsAsset] ([1] browsable assets)...
+[2024.12.23-15.27.25:682][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Crane/Crane_PhysicsAsset]
+[2024.12.23-15.27.25:682][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Crane/Crane_PhysicsAsset" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset" SILENT=true
+[2024.12.23-15.27.25:684][ 28]LogSavePackage: Moving output files for package: /Game/A_Character/Crane/Crane_PhysicsAsset
+[2024.12.23-15.27.25:685][ 28]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Crane_PhysicsAssetCC07529B4EB658507A1275809A5517C0.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Crane/Crane_PhysicsAsset.uasset'
+[2024.12.23-15.27.25:691][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.222 ms (total: 1.73 sec)
+[2024.12.23-15.27.25:716][ 28]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-15.27.25:716][ 28]LogContentValidation: Enabled validators:
+[2024.12.23-15.27.25:716][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-15.27.25:716][ 28]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-15.27.25:716][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-15.27.25:716][ 28]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-15.27.25:716][ 28]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-15.27.25:716][ 28]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-15.27.25:716][ 28]AssetCheck: /Game/A_Character/Crane/Crane_PhysicsAsset Validating asset
+[2024.12.23-15.27.26:879][120]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-15.27.26:885][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-15.27.26:885][120]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-15.27.26:889][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004436s)
+[2024.12.23-15.27.26:889][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004467s)
+[2024.12.23-15.27.26:915][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.23-15.27.26:920][120]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-15.27.26:921][120]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2024.12.23-15.27.26:922][120]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.12.23-15.27.26:922][120]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-15.27.26:922][120]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-15.27.26:922][120]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-15.27.26:922][120]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-15.27.26:922][120]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-15.27.26:922][120]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-15.27.26:922][120]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-15.27.26:922][120]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-15.27.26:922][120]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-15.27.26:922][120]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-15.27.26:922][120]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-15.27.26:925][120]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-15.27.26:950][120]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-15.27.26:951][120]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-15.27.26:951][120]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-15.27.26:951][120]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-15.27.26:951][120]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.12.23-15.27.26:951][120]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.12.23-15.27.26:954][120]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.12.23-15.27.26:954][120]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.12.23-15.27.26:954][120]LogInit: FAudioDevice initialized with ID 17.
+[2024.12.23-15.27.26:954][120]LogAudio: Display: Audio Device (ID: 17) registered with world 'Sandbox_01'.
+[2024.12.23-15.27.26:954][120]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.12.23-15.27.26:984][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-15.27.26:984][120]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-15.27.26:985][120]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-10.27.26
+[2024.12.23-15.27.26:987][120]LogWorld: Bringing up level for play took: 0.002552
+[2024.12.23-15.27.26:989][120]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.12.23-15.27.26:994][120]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-15.27.27:001][120]PIE: Server logged in
+[2024.12.23-15.27.27:003][120]PIE: Play in editor total start time 0.119 seconds.
+[2024.12.23-15.27.36:725][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-15.27.36:725][742]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-15.27.36:725][742]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-15.27.36:744][742]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-15.27.36:744][742]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.27.36:744][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.27.36:749][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-15.27.36:755][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.27.36:778][742]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.12.23-15.27.36:778][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.12.23-15.27.36:780][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.12.23-15.27.36:787][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.12.23-15.27.36:844][743]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.12.23-15.27.41:192][ 68]Cmd: DELETE
+[2024.12.23-15.27.41:192][ 68]Cmd: ACTOR DELETE
+[2024.12.23-15.27.41:196][ 68]LogEditorActor: Deleted Actor: BP_Crane_C
+[2024.12.23-15.27.41:238][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.23-15.27.41:241][ 68]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2024.12.23-15.27.47:385][767]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.12.23-15.27.47:385][767]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.12.23-15.27.47:387][767]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.PlayerStart_0
+[2024.12.23-15.27.47:387][767]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.12.23-15.27.47:388][767]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/A_Environment/Maps/Sandbox_01.Sandbox_01:PersistentLevel.PlayerStart_0
+[2024.12.23-15.27.47:388][767]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.12.23-15.27.47:405][767]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.12.23-15.27.52:286][277]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.12.23-15.27.54:220][467]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.12.23-15.27.54:225][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-15.27.54:225][467]LogPlayLevel: Creating play world package: /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-15.27.54:230][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004254s)
+[2024.12.23-15.27.54:230][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/A_Environment/Maps/Sandbox_01.Sandbox_01 to /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 (0.004282s)
+[2024.12.23-15.27.54:261][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.12.23-15.27.54:264][467]LogChaosDD: Creating Chaos Debug Draw Scene for world Sandbox_01
+[2024.12.23-15.27.54:265][467]LogPlayLevel: PIE: World Init took: (0.001412s)
+[2024.12.23-15.27.54:265][467]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.12.23-15.27.54:266][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-15.27.54:266][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-15.27.54:266][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-15.27.54:266][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-15.27.54:266][467]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-15.27.54:266][467]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-15.27.54:266][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-15.27.54:266][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-15.27.54:266][467]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-15.27.54:266][467]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-15.27.54:266][467]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-15.27.54:268][467]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-15.27.54:293][467]LogAudioMixer: Display: Using Audio Hardware Device DeskSpeakers (INSIGNIA NS-2810BT)
+[2024.12.23-15.27.54:294][467]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-15.27.54:294][467]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-15.27.54:294][467]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-15.27.54:295][467]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.12.23-15.27.54:295][467]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.12.23-15.27.54:296][467]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.12.23-15.27.54:296][467]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.12.23-15.27.54:296][467]LogInit: FAudioDevice initialized with ID 18.
+[2024.12.23-15.27.54:296][467]LogAudio: Display: Audio Device (ID: 18) registered with world 'Sandbox_01'.
+[2024.12.23-15.27.54:296][467]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.12.23-15.27.54:324][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-15.27.54:324][467]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-15.27.54:325][467]LogWorld: Bringing World /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01.Sandbox_01 up for play (max tick rate 0) at 2024.12.23-10.27.54
+[2024.12.23-15.27.54:326][467]LogWorld: Bringing up level for play took: 0.002078
+[2024.12.23-15.27.54:328][467]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.12.23-15.27.54:334][467]r.VolumetricCloud.DistanceToSampleMaxCount = "3.1"
+[2024.12.23-15.27.54:340][467]PIE: Server logged in
+[2024.12.23-15.27.54:344][467]PIE: Play in editor total start time 0.119 seconds.
+[2024.12.23-15.28.12:365][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-15.28.12:365][621]LogWorld: BeginTearingDown for /Game/A_Environment/Maps/UEDPIE_0_Sandbox_01
+[2024.12.23-15.28.12:365][621]LogSlate: Window 'CraneGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-15.28.12:402][621]r.VolumetricCloud.DistanceToSampleMaxCount = "3"
+[2024.12.23-15.28.12:402][621]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.12:403][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.12:407][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-15.28.12:414][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.12:438][621]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.12.23-15.28.12:438][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.12.23-15.28.12:440][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.12.23-15.28.12:447][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.23-15.28.12:496][622]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.12.23-15.28.18:212][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.23-15.28.19:691][206]LogSlate: Window 'Save Content' being destroyed
+[2024.12.23-15.28.19:697][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-15.28.19:765][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.23-15.28.19:792][206]LogSavePackage: Moving output files for package: /Game/A_Environment/Maps/Sandbox_01
+[2024.12.23-15.28.19:792][206]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/Sandbox_017505A7D84EF78A175F23199FBC20C7D6.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Environment/Maps/Sandbox_01.umap'
+[2024.12.23-15.28.19:800][206]LogFileHelpers: Saving map 'Sandbox_01' took 0.078
+[2024.12.23-15.28.19:806][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.186 ms (total: 1.84 sec)
+[2024.12.23-15.28.19:840][206]LogStall: Shutdown...
+[2024.12.23-15.28.19:840][206]LogStall: Shutdown complete.
+[2024.12.23-15.28.19:904][206]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.19:904][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.19:914][206]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.19:914][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.19:925][206]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.19:925][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.19:988][206]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.19:988][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:072][206]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.20:072][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:082][206]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.20:082][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:169][206]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.20:169][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:235][206]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.20:235][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:278][206]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.20:278][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:318][206]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.20:318][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:369][206]LogSlate: Window 'CraneGame - Unreal Editor' being destroyed
+[2024.12.23-15.28.20:461][206]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-15.28.20:461][206]LogContentValidation: Enabled validators:
+[2024.12.23-15.28.20:461][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-15.28.20:461][206]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-15.28.20:461][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-15.28.20:461][206]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-15.28.20:461][206]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-15.28.20:461][206]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-15.28.20:461][206]AssetCheck: /Game/A_Environment/Maps/Sandbox_01 Validating asset
+[2024.12.23-15.28.20:496][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.23-15.28.20:526][206]Cmd: QUIT_EDITOR
+[2024.12.23-15.28.20:526][207]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.23-15.28.20:532][207]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.23-15.28.20:532][207]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.12.23-15.28.20:532][207]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.12.23-15.28.20:533][207]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.20:533][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:540][207]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.12.23-15.28.20:540][207]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.12.23-15.28.20:545][207]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.20:545][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:549][207]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.20:549][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:552][207]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.20:552][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:555][207]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.20:555][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:558][207]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.20:558][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:560][207]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.20:560][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:562][207]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-15.28.20:562][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-15.28.20:565][207]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.12.23-15.28.20:571][207]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.12.23-15.28.20:571][207]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.12.23-15.28.20:571][207]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.12.23-15.28.21:421][207]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.23-15.28.21:421][207]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.23-15.28.21:421][207]LogAudio: Display: Audio Device unregistered from world 'Sandbox_01'.
+[2024.12.23-15.28.21:421][207]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.12.23-15.28.21:421][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.23-15.28.21:423][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.23-15.28.21:446][207]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.12.23-15.28.21:446][207]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.23-15.28.21:447][207]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.12.23-15.28.21:449][207]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.23-15.28.21:449][207]LogExit: Preparing to exit.
+[2024.12.23-15.28.21:480][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:484][207]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.23-15.28.21:713][207]LogEditorDataStorage: Deinitializing
+[2024.12.23-15.28.21:848][207]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.12.23-15.28.21:862][207]LogExit: Editor shut down
+[2024.12.23-15.28.21:865][207]LogExit: Transaction tracking system shut down
+[2024.12.23-15.28.22:002][207]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 3.
+[2024.12.23-15.28.22:026][207]LogExit: Object subsystem successfully closed.
+[2024.12.23-15.28.22:088][207]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.12.23-15.28.22:962][207]LogMemoryProfiler: Shutdown
+[2024.12.23-15.28.22:962][207]LogNetworkingProfiler: Shutdown
+[2024.12.23-15.28.22:962][207]LoadingProfiler: Shutdown
+[2024.12.23-15.28.22:962][207]LogTimingProfiler: Shutdown
+[2024.12.23-15.28.23:297][207]LogChaosDD: Chaos Debug Draw Shutdown
+[2024.12.23-15.28.23:341][207]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.12.23-15.28.23:341][207]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAB71300C-451A-AC14-FD6B-C0BD88717797%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=a6daf16a4bee5e0a14cf64ac2e42fe0f%7C967da421e18f4e38a7c98848605872ac%7Cd0cdedfd-fd71-43a1-9703-44c9d97544a6&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.12.23-15.28.23:882][207]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2024.12.23-15.28.23:882][207]RenderDocPlugin: plugin has been unloaded.
+[2024.12.23-15.28.23:882][207]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.12.23-15.28.23:882][207]LogNFORDenoise: NFORDenoise function shutting down
+[2024.12.23-15.28.23:882][207]LogXGEController: Cleaning working directory: C:/Users/laure/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.12.23-15.28.23:884][207]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2024.12.23-15.28.23:884][207]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2024.12.23-15.28.23:884][207]LogPakFile: Destroying PakPlatformFile
+[2024.12.23-15.28.24:214][207]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.12.23-15.28.24:272][207]LogExit: Exiting.
+[2024.12.23-15.28.24:285][207]Log file closed, 12/23/24 10:28:24
