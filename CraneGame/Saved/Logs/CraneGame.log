@@ -1861,3 +1861,84 @@ Script Stack (0 frames) :
 [2024.12.30-20.57.00:156][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
 [2024.12.30-20.57.00:183][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
 [2024.12.30-20.57.00:449][551]LogChaosDD: Creating Chaos Debug Draw Scene for world World_18
+[2024.12.30-20.57.16:730][411]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.30-20.57.16:737][411]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.30-20.57.16:752][413]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.30-20.57.18:755][654]LogContentBrowser: Attempting asset rename: NewFolder -> Input
+[2024.12.30-20.57.18:755][654]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.30-20.57.26:809][565]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2024.12.30-20.57.26:815][565]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2024.12.30-20.57.26:830][567]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2024.12.30-20.57.33:484][366]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_FloatingPawn
+[2024.12.30-20.57.33:486][366]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2024.12.30-20.57.34:015][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.30-20.57.34:023][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-20.57.34:057][424]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Gameplay/Input/IMC_FloatingPawn] ([1] browsable assets)...
+[2024.12.30-20.57.34:057][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Gameplay/Input/IMC_FloatingPawn]
+[2024.12.30-20.57.34:057][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Gameplay/Input/IMC_FloatingPawn" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Gameplay/Input/IMC_FloatingPawn.uasset" SILENT=true
+[2024.12.30-20.57.34:058][424]LogSavePackage: Moving output files for package: /Game/A_Gameplay/Input/IMC_FloatingPawn
+[2024.12.30-20.57.34:058][424]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/IMC_FloatingPawn4A84509248880021E134F084A8CD7A72.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Gameplay/Input/IMC_FloatingPawn.uasset'
+[2024.12.30-20.57.34:067][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.593 ms (total: 302.786 ms)
+[2024.12.30-20.57.34:091][424]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.30-20.57.34:091][424]LogContentValidation: Enabled validators:
+[2024.12.30-20.57.34:091][424]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-20.57.34:091][424]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-20.57.34:091][424]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-20.57.34:091][424]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-20.57.34:091][424]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-20.57.34:091][424]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-20.57.34:092][424]AssetCheck: /Game/A_Gameplay/Input/IMC_FloatingPawn Validating asset
+[2024.12.30-20.57.36:823][724]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.30-20.57.36:829][724]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.30-20.57.36:835][725]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.30-20.57.38:789][960]LogContentBrowser: Attempting asset rename: NewFolder -> Actions
+[2024.12.30-20.57.38:790][960]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.30-20.57.39:950][ 95]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 690.240601
+[2024.12.30-20.57.40:053][107]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-20.57.40:053][107]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 690.334290, Update Interval: 312.425903
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: ================================================
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Total job queries 267, among them cache hits 17 (6.37%), DDC hits 243 (91.01%), Duplicates 2 (0.75%)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Tracking 248 distinct input hashes that result in 233 distinct outputs (93.95%)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: RAM used: 183.73 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Shaders Compiled: 5
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Job execution time: average 0.90 s, max 1.24 s
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Job life time (pending + execution): average 0.94 s, max 1.28
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Shader code size: average 7.236 KiB, min 5.281 KiB, max 10.855 KiB
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.28 s
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Average processing rate: 3.90 jobs/sec
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Total thread time: 1.852 s
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Total thread preprocess time: 6.278 s
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Percentage time preprocessing: 338.91%
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Effective parallelization: 1.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 38.50% of total time (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.12% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.58% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.91% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.90% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: === Material stats ===
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Materials Translated:    164
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Material Translation Only: 0.08 s (67%)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: Material Cache Hits: 39 (24%)
+[2024.12.30-20.58.18:573][593]LogShaderCompilers: Display: ================================================
+[2024.12.30-21.02.58:621][433]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1008.912781
+[2024.12.30-21.02.59:620][436]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-21.02.59:620][436]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1009.579102, Update Interval: 309.977722
+[2024.12.30-21.08.20:234][230]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1330.525757
+[2024.12.30-21.08.21:234][233]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.30-21.08.21:234][233]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1331.192383, Update Interval: 359.983521
