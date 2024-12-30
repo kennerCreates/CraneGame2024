@@ -1942,3 +1942,223 @@ Script Stack (0 frames) :
 [2024.12.30-21.08.20:234][230]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1330.525757
 [2024.12.30-21.08.21:234][233]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.12.30-21.08.21:234][233]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1331.192383, Update Interval: 359.983521
+[2024.12.30-21.13.02:308][474]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.12.30-21.13.02:312][474]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.12.30-21.13.02:328][476]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.12.30-21.13.09:975][394]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Move
+[2024.12.30-21.13.09:975][394]LogContentBrowser: End creating deferred item NewInputAction
+[2024.12.30-21.13.11:114][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.12.30-21.13.11:122][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.30-21.13.11:156][525]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Character/Player/BPP_Player] ([2] browsable assets)...
+[2024.12.30-21.13.11:156][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Character/Player/BPP_Player]
+[2024.12.30-21.13.11:156][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Character/Player/BPP_Player" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Player/BPP_Player.uasset" SILENT=true
+[2024.12.30-21.13.11:160][525]LogSavePackage: Moving output files for package: /Game/A_Character/Player/BPP_Player
+[2024.12.30-21.13.11:160][525]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/BPP_Player5C4CB4B74EB6451CBC6310A028044873.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Character/Player/BPP_Player.uasset'
+[2024.12.30-21.13.11:161][525]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_Gameplay/Input/Actions/IA_Move] ([1] browsable assets)...
+[2024.12.30-21.13.11:161][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Gameplay/Input/Actions/IA_Move]
+[2024.12.30-21.13.11:161][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_Gameplay/Input/Actions/IA_Move" FILE="../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Gameplay/Input/Actions/IA_Move.uasset" SILENT=true
+[2024.12.30-21.13.11:162][525]LogSavePackage: Moving output files for package: /Game/A_Gameplay/Input/Actions/IA_Move
+[2024.12.30-21.13.11:162][525]LogSavePackage: Moving '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Saved/IA_Move970C68E44820F6F9DE3EC48A23FE0879.tmp' to '../../../../../../code/2024Q4/CraneGame2024/CraneGame/Content/A_Gameplay/Input/Actions/IA_Move.uasset'
+[2024.12.30-21.13.11:169][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.873 ms (total: 349.660 ms)
+[2024.12.30-21.13.11:196][525]LogContentValidation: Display: Starting to validate 2 assets
+[2024.12.30-21.13.11:196][525]LogContentValidation: Enabled validators:
+[2024.12.30-21.13.11:196][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.30-21.13.11:196][525]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.30-21.13.11:196][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.30-21.13.11:196][525]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.30-21.13.11:196][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.30-21.13.11:196][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.30-21.13.11:196][525]AssetCheck: /Game/A_Character/Player/BPP_Player Validating asset
+[2024.12.30-21.13.11:196][525]AssetCheck: /Game/A_Gameplay/Input/Actions/IA_Move Validating asset
+[2024.12.30-21.13.45:522][ 33]LogSlate: Window 'Loading Many Assets' being destroyed
+[2024.12.30-21.13.45:527][ 33]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 87 assets. Are you sure you want to continue?
+[2024.12.30-21.13.45:559][ 33]LogStreaming: Display: FlushAsyncLoading(507): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.30-21.13.45:566][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_T_Pose.MM_T_Pose (Required Memory Estimate: 0.59 MB)
+[2024.12.30-21.13.45:569][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/MM_T_Pose.MM_T_Pose, at AnimationSequence/5196a570a05e52408f8a3940ff2aed08bfac5821
+[2024.12.30-21.13.45:849][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim (Required Memory Estimate: 2.80 MB)
+[2024.12.30-21.13.45:854][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim (Required Memory Estimate: 2.80 MB)
+[2024.12.30-21.13.45:860][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim (Required Memory Estimate: 2.35 MB)
+[2024.12.30-21.13.45:861][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/1fb58284e95dc98903d95980509ebeafe8b05488
+[2024.12.30-21.13.45:866][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim (Required Memory Estimate: 2.35 MB)
+[2024.12.30-21.13.45:867][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/8d77eedbc5bc865a73c963ae0494c57c91acaf0d
+[2024.12.30-21.13.45:873][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/eb1f3645132c19c6f45501b2ca3c9f8f718c081d
+[2024.12.30-21.13.45:874][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim (Required Memory Estimate: 1.45 MB)
+[2024.12.30-21.13.45:882][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/4dcd365de0f93bc0c094c751bef04a34b3d44e1a
+[2024.12.30-21.13.45:883][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim (Required Memory Estimate: 1.45 MB)
+[2024.12.30-21.13.45:883][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/49dcf63837ae8f0e33a27bcef11a767527a39b20
+[2024.12.30-21.13.45:888][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim (Required Memory Estimate: 1.90 MB)
+[2024.12.30-21.13.45:890][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/3c589734e79e4e99d4a5eef6cbd5f5a4c4796868
+[2024.12.30-21.13.45:893][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim (Required Memory Estimate: 1.90 MB)
+[2024.12.30-21.13.45:898][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/1319c50ce557b5dfded879a23133bdb4ae578fcc
+[2024.12.30-21.13.45:899][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim (Required Memory Estimate: 4.61 MB)
+[2024.12.30-21.13.45:904][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/e0a14c4fcca154095db338afcd243aca2f0daa7a
+[2024.12.30-21.13.45:905][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim (Required Memory Estimate: 4.61 MB)
+[2024.12.30-21.13.45:911][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim (Required Memory Estimate: 6.41 MB)
+[2024.12.30-21.13.45:918][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim (Required Memory Estimate: 6.41 MB)
+[2024.12.30-21.13.45:919][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/361b1c12382886286f2c15e84e0d602725841af9
+[2024.12.30-21.13.45:928][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim (Required Memory Estimate: 5.51 MB)
+[2024.12.30-21.13.45:929][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/cc2b1e6f452301a13abebf6c4a7eae6d43660a29
+[2024.12.30-21.13.45:937][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim (Required Memory Estimate: 5.51 MB)
+[2024.12.30-21.13.45:938][ 33]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2024.12.30-21.13.45:942][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/0111d097422079b6a0998ed49447b61877c6c8e2
+[2024.12.30-21.13.45:950][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/7fc68fd196454c3471deb75402ae225556c50db9
+[2024.12.30-21.13.45:955][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/c6aa84b1fb6b08c5ec00f3eadebc3fcfc16e3c35
+[2024.12.30-21.13.45:961][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/96f0ad002e8a0d6ae8ef4c7c223051d2ee49d14d
+[2024.12.30-21.13.46:177][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim (Required Memory Estimate: 2.35 MB)
+[2024.12.30-21.13.46:182][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim (Required Memory Estimate: 2.35 MB)
+[2024.12.30-21.13.46:188][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim (Required Memory Estimate: 2.35 MB)
+[2024.12.30-21.13.46:189][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim, at AnimationSequence/bffdcc8a10e5e7a9bf09964db142abb7e03cc169
+[2024.12.30-21.13.46:195][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim (Required Memory Estimate: 2.35 MB)
+[2024.12.30-21.13.46:200][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim, at AnimationSequence/910997692287cad5bc48c2d3b6a2d94203a8e9fa
+[2024.12.30-21.13.46:201][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim (Required Memory Estimate: 1.45 MB)
+[2024.12.30-21.13.46:204][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim, at AnimationSequence/15cc2f7f2bbdfe5edc2123e9ca8104e48f9975c8
+[2024.12.30-21.13.46:207][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim, at AnimationSequence/9212b0bbfdc7a8a306e140b2bd7152c55b5ad385
+[2024.12.30-21.13.46:209][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim (Required Memory Estimate: 1.45 MB)
+[2024.12.30-21.13.46:211][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim, at AnimationSequence/a278952d1e3effe7598d9355105393ec3de3baa1
+[2024.12.30-21.13.46:215][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim (Required Memory Estimate: 1.90 MB)
+[2024.12.30-21.13.46:217][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim, at AnimationSequence/2aeb5d57469b357f2e09791c607cd06fae01af83
+[2024.12.30-21.13.46:220][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim (Required Memory Estimate: 1.90 MB)
+[2024.12.30-21.13.46:226][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim (Required Memory Estimate: 4.15 MB)
+[2024.12.30-21.13.46:230][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim, at AnimationSequence/62a0153fddd8a996f1b488cfda525c4cd0cec072
+[2024.12.30-21.13.46:231][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim, at AnimationSequence/5778039b3b8ba51d9662bb5f68a4295f8c9ac2cd
+[2024.12.30-21.13.46:232][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim (Required Memory Estimate: 4.15 MB)
+[2024.12.30-21.13.46:241][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim (Required Memory Estimate: 6.41 MB)
+[2024.12.30-21.13.46:243][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim, at AnimationSequence/615f2acb229b7fb8027b5482d2110b6169401f83
+[2024.12.30-21.13.46:250][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim (Required Memory Estimate: 6.41 MB)
+[2024.12.30-21.13.46:255][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim, at AnimationSequence/5f4e256567992fcdfbe27648036259330e597688
+[2024.12.30-21.13.46:258][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim (Required Memory Estimate: 7.31 MB)
+[2024.12.30-21.13.46:264][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim (Required Memory Estimate: 7.31 MB)
+[2024.12.30-21.13.46:265][ 33]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2024.12.30-21.13.46:267][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim, at AnimationSequence/4c7fb05699a791b49700ebbbc71da3be1314a638
+[2024.12.30-21.13.46:282][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim, at AnimationSequence/5b6a59b33fbf81de34370d78406ee0498044165c
+[2024.12.30-21.13.46:290][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim, at AnimationSequence/71261a7f4aa4424af8ca560cb812714115ebb519
+[2024.12.30-21.13.46:294][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim, at AnimationSequence/91a3fe6806c10bcf40e70108b733c5fe715d595c
+[2024.12.30-21.13.47:828][ 33]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2024.12.30-21.13.47:828][ 33]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2024.12.30-21.13.49:146][ 33]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2024.12.30-21.13.49:147][ 33]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2024.12.30-21.13.49:307][ 33]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequin_UE4/Animations/Jog_Fwd.Jog_Fwd (Required Memory Estimate: 12.31 MB)
+[2024.12.30-21.13.49:349][ 33]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequin_UE4/Animations/Jog_Fwd.Jog_Fwd, at AnimationSequence/f5b8266c835d16c36e5cf7a2cb05d05264a608b3
+[2024.12.30-21.13.49:366][ 33]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.T_UELogo_Mask (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2024.12.30-21.13.49:368][ 33]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2024.12.30-21.13.49:368][ 33]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2024.12.30-21.13.49:369][ 33]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2024.12.30-21.13.49:374][ 33]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.T_UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2024.12.30-21.13.49:378][ 33]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.T_UELogo_N_TGA (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2024.12.30-21.13.49:385][ 33]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2024.12.30-21.13.49:454][ 33]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.T_UE4_Mannequin__normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2024.12.30-21.13.49:513][ 33]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2024.12.30-21.13.49:514][ 33]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/3 (SKM_Quinn) ...
+[2024.12.30-21.13.49:762][ 33]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 1 
+[2024.12.30-21.13.49:763][ 33]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2024.12.30-21.13.49:763][ 33]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2024.12.30-21.13.51:423][ 33]LogSkeletalMesh: Built Skeletal Mesh [1.91s] /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2024.12.30-21.13.51:779][ 33]LogSkeletalMesh: Skeletal mesh [/Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2024.12.30-21.13.51:792][ 33]LogSkeletalMesh: Built Skeletal Mesh [5.53s] /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2024.12.30-21.13.52:795][ 33]LogSkeletalMesh: Skeletal mesh [/Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2024.12.30-21.13.52:808][ 33]LogSkeletalMesh: Built Skeletal Mesh [6.87s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2024.12.30-21.13.52:893][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.12.30-21.14.20:702][ 33]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.30-21.14.20:787][ 37]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2024.12.30-21.14.23:139][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.30-21.14.23:184][314]LogStall: Shutdown...
+[2024.12.30-21.14.23:184][314]LogStall: Shutdown complete.
+[2024.12.30-21.14.23:228][314]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.30-21.14.23:228][314]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.14.23:228][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.14.23:283][314]LogSlate: Window 'CraneGame - Unreal Editor' being destroyed
+[2024.12.30-21.14.23:392][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.30-21.14.23:407][314]Cmd: QUIT_EDITOR
+[2024.12.30-21.14.23:407][315]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.30-21.14.23:411][315]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.30-21.14.23:412][315]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.12.30-21.14.23:412][315]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.12.30-21.14.23:412][315]LogWorld: UWorld::CleanupWorld for Sandbox_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.14.23:412][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.14.23:419][315]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.12.30-21.14.23:420][315]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.12.30-21.14.23:423][315]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.14.23:423][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.14.23:427][315]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.14.23:427][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.14.23:431][315]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.14.23:431][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.14.23:434][315]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.14.23:434][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.14.23:437][315]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.14.23:437][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.14.23:441][315]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.14.23:441][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.14.23:443][315]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.14.23:443][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.14.23:446][315]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.14.23:446][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.14.23:449][315]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.14.23:449][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.14.23:452][315]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.14.23:452][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.14.23:454][315]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.14.23:454][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.14.23:457][315]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.12.30-21.14.23:457][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.30-21.14.23:459][315]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.12.30-21.14.23:464][315]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.12.30-21.14.23:464][315]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.12.30-21.14.23:464][315]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.12.30-21.14.23:468][315]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.30-21.14.23:468][315]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.30-21.14.23:468][315]LogAudio: Display: Audio Device unregistered from world 'Sandbox_01'.
+[2024.12.30-21.14.23:468][315]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.12.30-21.14.23:468][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.30-21.14.23:469][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.30-21.14.23:488][315]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.12.30-21.14.23:488][315]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.30-21.14.23:488][315]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.12.30-21.14.23:490][315]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.30-21.14.23:491][315]LogExit: Preparing to exit.
+[2024.12.30-21.14.23:525][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.23:529][315]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.30-21.14.24:244][315]LogEditorDataStorage: Deinitializing
+[2024.12.30-21.14.24:492][315]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.12.30-21.14.24:507][315]LogExit: Editor shut down
+[2024.12.30-21.14.24:511][315]LogExit: Transaction tracking system shut down
+[2024.12.30-21.14.24:745][315]LogExit: Object subsystem successfully closed.
+[2024.12.30-21.14.24:803][315]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.12.30-21.14.25:199][315]LogMemoryProfiler: Shutdown
+[2024.12.30-21.14.25:200][315]LogNetworkingProfiler: Shutdown
+[2024.12.30-21.14.25:200][315]LoadingProfiler: Shutdown
+[2024.12.30-21.14.25:200][315]LogTimingProfiler: Shutdown
+[2024.12.30-21.14.25:539][315]LogChaosDD: Chaos Debug Draw Shutdown
+[2024.12.30-21.14.25:543][315]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.12.30-21.14.25:543][315]LogNFORDenoise: NFORDenoise function shutting down
+[2024.12.30-21.14.25:543][315]RenderDocPlugin: plugin has been unloaded.
+[2024.12.30-21.14.25:561][315]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.12.30-21.14.25:561][315]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC384734F-45F7-1F40-C4C8-4AA168FC3413%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=a6daf16a4bee5e0a14cf64ac2e42fe0f%7C967da421e18f4e38a7c98848605872ac%7Cd0cdedfd-fd71-43a1-9703-44c9d97544a6&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.12.30-21.14.26:122][315]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2024.12.30-21.14.26:123][315]LogXGEController: Cleaning working directory: C:/Users/laure/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.12.30-21.14.26:125][315]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2024.12.30-21.14.26:125][315]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2024.12.30-21.14.26:125][315]LogPakFile: Destroying PakPlatformFile
+[2024.12.30-21.14.26:370][315]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.12.30-21.14.26:430][315]LogExit: Exiting.
+[2024.12.30-21.14.26:443][315]Log file closed, 12/30/24 16:14:26
